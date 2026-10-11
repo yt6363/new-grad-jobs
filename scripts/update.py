@@ -41,7 +41,8 @@ def main():
         f"Last update: {now.strftime('%B %d, %Y, %H:%M UTC')} · {total} roles listed",
         "",
         "Want these the hour they're posted, for your role and city? [Find your role first](https://findyourrolefirst.click) "
-        "searches every new role as it appears, free for your first 200 roles, and works inside Claude and Codex.",
+        "searches every new role as it appears, free for your first 200 roles, and works inside Claude and Codex. "
+        "Looking for an internship? See [summer 2027 internships](https://github.com/yt6363/summer-2027-internships).",
         "",
         "## Jump to",
         "",
