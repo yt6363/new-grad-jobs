@@ -2,9 +2,9 @@
 
 New grad and entry-level roles in **product, data, design, business and software**, posted in the last 7 days, read straight from more than 15,000 company career sites (Greenhouse, Lever, Ashby, Workday and the big tech career sites). **Updated every hour.**
 
-Last update: October 11, 2026, 09:08 UTC · 144 roles listed
+Last update: October 11, 2026, 10:37 UTC · 132 roles listed
 
-Want these the hour they're posted, for your role and city? [Find your role first](https://findyourrolefirst.click) searches every new role as it appears, free for your first 200 roles, and works inside Claude and Codex.
+Want these the hour they're posted, for your role and city? [Find your role first](https://findyourrolefirst.click) searches every new role as it appears, free for your first 200 roles, and works inside Claude and Codex. Looking for an internship? See [summer 2027 internships](https://github.com/yt6363/summer-2027-internships).
 
 ## Jump to
 
@@ -12,7 +12,7 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 - [Data, analytics and AI](#data-analytics-and-ai) (13)
 - [Design](#design) (3)
 - [Business, marketing and operations](#business-marketing-and-operations) (60)
-- [Software engineering](#software-engineering) (59)
+- [Software engineering](#software-engineering) (47)
 
 ## Product management
 
@@ -50,7 +50,7 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| [Databricks](https://findyourrolefirst.click/companies/databricks) | Product Design New Grad \(2027 Start\) | San Francisco, California; Seattle, Washington | 33h | [Open](https://findyourrolefirst.click/account?role=gh:databricks:8843577002) |
+| [Databricks](https://findyourrolefirst.click/companies/databricks) | Product Design New Grad \(2027 Start\) | San Francisco, California; Seattle, Washington | 35h | [Open](https://findyourrolefirst.click/account?role=gh:databricks:8843577002) |
 | [Hntb University](https://findyourrolefirst.click/companies/hntb-university) | Returning New Grad Graphic Designer I \(For current/previous HNTB interns ONLY\) | Nashville, TN \(City Center\) | 2d | [Open](https://findyourrolefirst.click/account?role=workday:hntb-hntb_university_careers:R-31963) |
 | Littlewordsproject | Associate Product Designer - Accessories | Mountainside, New Jersey | 5d | [Open](https://findyourrolefirst.click/account?role=gh:littlewordsproject:5442337008) |
 
@@ -58,22 +58,20 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| [incident.io](https://findyourrolefirst.click/companies/incident-io) | Graduate Sales Development Representative \(SDR\) | San Francisco | 14h | [Open](https://findyourrolefirst.click/account?role=ashby:incident:ee0bfdb9-b537-4f07-9cc0-629ee9c7e5a8) |
-| [incident.io](https://findyourrolefirst.click/companies/incident-io) | Entry-Level Business Development Representative \(BDR\) | San Francisco | 14h | [Open](https://findyourrolefirst.click/account?role=ashby:incident:86264b1b-88b2-436c-af63-72a1560dd308) |
-| [Clera](https://findyourrolefirst.click/companies/clera) | Early-Career Account Executive | United States | 30h | [Open](https://findyourrolefirst.click/account?role=ashby:clera:527b00c5-056b-41ea-956e-9a998cee88d5) |
-| [Verstela](https://findyourrolefirst.click/companies/verstela) | Market Sales Development Representative | Aurora, Illinois, United States; Bolingbrook, Illinois, Unit | 34h | [Open](https://findyourrolefirst.click/account?role=gh:verstela:5449227008) |
-| [Ping Identity](https://findyourrolefirst.click/companies/ping-identity) | Associate Sales Development Representative | USA - Austin, TX - Hybrid | 35h | [Open](https://findyourrolefirst.click/account?role=gh:pingidentity:8876826002) |
-| Levanta | Sales Development Representative | North Carolina \(Remote\), New York \(Remote\), Washington \ | 36h | [Open](https://findyourrolefirst.click/account?role=gh:levanta:5449319008) |
-| [Commure](https://findyourrolefirst.click/companies/commure) | Sales Development Representative \(Utah\) | Lehi, UT | 36h | [Open](https://findyourrolefirst.click/account?role=ashby:commure:acbaac88-2c5f-4249-ae6a-790991ebc358) |
-| [Happyrobot Inc.](https://findyourrolefirst.click/companies/happyrobot-inc) | Sales Development Representative \(SDR\) | San Francisco | 36h | [Open](https://findyourrolefirst.click/account?role=ashby:happyrobot.ai:663a434a-a676-4497-b1ac-664e9c863103) |
-| [Happyrobot Inc.](https://findyourrolefirst.click/companies/happyrobot-inc) | Sales Development Representative \(SDR\) | New York | 36h | [Open](https://findyourrolefirst.click/account?role=ashby:happyrobot.ai:539aa8f6-5e03-44eb-8de7-7bade6dbfdd7) |
-| [Verstela](https://findyourrolefirst.click/companies/verstela) | Market Sales Development Representative | Aurora, Colorado, United States; Broomfield, Colorado, Unite | 37h | [Open](https://findyourrolefirst.click/account?role=gh:verstela:5449161008) |
-| [Renuity](https://findyourrolefirst.click/companies/renuity) | Entry Level Sales Representative | Columbus, OH | 39h | [Open](https://findyourrolefirst.click/account?role=ashby:renuity:c6e39173-0b08-43a3-bad7-c2fb222ad5d2) |
-| [Gong.io](https://findyourrolefirst.click/companies/gong-io) | Sales Development Representative | Austin | 41h | [Open](https://findyourrolefirst.click/account?role=gh:gongio:4719097006) |
-| [Komodo Health](https://findyourrolefirst.click/companies/komodo-health) | Sales Development Representative | New York, NY | 41h | [Open](https://findyourrolefirst.click/account?role=gh:komodohealth:8880020002) |
-| [Townsquare Interactive](https://findyourrolefirst.click/companies/townsquare-interactive) | Sales Development Representative | Charlotte, NC | 41h | [Open](https://findyourrolefirst.click/account?role=gh:townsquareinteractive:8267417) |
-| [Kaseya Careers](https://findyourrolefirst.click/companies/kaseya-careers) | Sales Development Representative | Miami, FL | 43h | [Open](https://findyourrolefirst.click/account?role=gh:kaseya:6203113004) |
-| [Augury](https://findyourrolefirst.click/companies/augury) | Sales Development Representative | US | 44h | [Open](https://findyourrolefirst.click/account?role=gh:augury:8881311002) |
+| [incident.io](https://findyourrolefirst.click/companies/incident-io) | Graduate Sales Development Representative \(SDR\) | San Francisco | 16h | [Open](https://findyourrolefirst.click/account?role=ashby:incident:ee0bfdb9-b537-4f07-9cc0-629ee9c7e5a8) |
+| [incident.io](https://findyourrolefirst.click/companies/incident-io) | Entry-Level Business Development Representative \(BDR\) | San Francisco | 16h | [Open](https://findyourrolefirst.click/account?role=ashby:incident:86264b1b-88b2-436c-af63-72a1560dd308) |
+| [Clera](https://findyourrolefirst.click/companies/clera) | Early-Career Account Executive | United States | 31h | [Open](https://findyourrolefirst.click/account?role=ashby:clera:527b00c5-056b-41ea-956e-9a998cee88d5) |
+| [Verstela](https://findyourrolefirst.click/companies/verstela) | Market Sales Development Representative | Aurora, Illinois, United States; Bolingbrook, Illinois, Unit | 36h | [Open](https://findyourrolefirst.click/account?role=gh:verstela:5449227008) |
+| [Ping Identity](https://findyourrolefirst.click/companies/ping-identity) | Associate Sales Development Representative | USA - Austin, TX - Hybrid | 36h | [Open](https://findyourrolefirst.click/account?role=gh:pingidentity:8876826002) |
+| Levanta | Sales Development Representative | North Carolina \(Remote\), New York \(Remote\), Washington \ | 38h | [Open](https://findyourrolefirst.click/account?role=gh:levanta:5449319008) |
+| [Commure](https://findyourrolefirst.click/companies/commure) | Sales Development Representative \(Utah\) | Lehi, UT | 38h | [Open](https://findyourrolefirst.click/account?role=ashby:commure:acbaac88-2c5f-4249-ae6a-790991ebc358) |
+| [Happyrobot Inc.](https://findyourrolefirst.click/companies/happyrobot-inc) | Sales Development Representative \(SDR\) | San Francisco | 38h | [Open](https://findyourrolefirst.click/account?role=ashby:happyrobot.ai:663a434a-a676-4497-b1ac-664e9c863103) |
+| [Renuity](https://findyourrolefirst.click/companies/renuity) | Entry Level Sales Representative | Columbus, OH | 41h | [Open](https://findyourrolefirst.click/account?role=ashby:renuity:c6e39173-0b08-43a3-bad7-c2fb222ad5d2) |
+| [Gong.io](https://findyourrolefirst.click/companies/gong-io) | Sales Development Representative | Austin | 42h | [Open](https://findyourrolefirst.click/account?role=gh:gongio:4719097006) |
+| [Komodo Health](https://findyourrolefirst.click/companies/komodo-health) | Sales Development Representative | New York, NY | 43h | [Open](https://findyourrolefirst.click/account?role=gh:komodohealth:8880020002) |
+| [Townsquare Interactive](https://findyourrolefirst.click/companies/townsquare-interactive) | Sales Development Representative | Charlotte, NC | 43h | [Open](https://findyourrolefirst.click/account?role=gh:townsquareinteractive:8267417) |
+| [Kaseya Careers](https://findyourrolefirst.click/companies/kaseya-careers) | Sales Development Representative | Miami, FL | 45h | [Open](https://findyourrolefirst.click/account?role=gh:kaseya:6203113004) |
+| [Augury](https://findyourrolefirst.click/companies/augury) | Sales Development Representative | US | 45h | [Open](https://findyourrolefirst.click/account?role=gh:augury:8881311002) |
 | [Avnet](https://findyourrolefirst.click/companies/avnet) | Sales Development Representative | San Jose, California, United States Of America | 2d | [Open](https://findyourrolefirst.click/account?role=workday:avnet-external:JR-024655) |
 | [Optiv](https://findyourrolefirst.click/companies/optiv) | Enterprise Sales Development Representative / Salt Lake City or Kansas City, USA | Kansas City Missouri \(\+1 more\) | 2d | [Open](https://findyourrolefirst.click/account?role=workday:optiv-optiv_careers:2026-13945) |
 | [Breakthru](https://findyourrolefirst.click/companies/breakthru) | Sales Development Representative | Tampa FL USA | 2d | [Open](https://findyourrolefirst.click/account?role=workday:breakthru-bbg-us:R0044064) |
@@ -87,19 +85,13 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 | [Smartly](https://findyourrolefirst.click/companies/smartly) | Enterprise Sales Development Representative | New York, New York, United States | 2d | [Open](https://findyourrolefirst.click/account?role=gh:smartlyio:6186909004) |
 | [DOSS](https://findyourrolefirst.click/companies/doss) | Associate Account Executive | San Francisco | 2d | [Open](https://findyourrolefirst.click/account?role=ashby:doss:d85388e4-4971-472a-95bb-b1bee363d60e) |
 | [Perk](https://findyourrolefirst.click/companies/perk) | Sales Development Representative | Boston | 2d | [Open](https://findyourrolefirst.click/account?role=ashby:perk:b6015e52-47ce-49e2-825d-bbd0e29bcf5c) |
-| [Perk](https://findyourrolefirst.click/companies/perk) | Sales Development Representative | Chicago | 2d | [Open](https://findyourrolefirst.click/account?role=ashby:perk:e08d3a65-2629-4573-8a15-6dd7e161c0f8) |
 | [GWI](https://findyourrolefirst.click/companies/gwi) | Sales Development Representative | New York City, USA | 2d | [Open](https://findyourrolefirst.click/account?role=gh:globalwebindex:8863991002) |
 | [PointClickCare](https://findyourrolefirst.click/companies/pointclickcare) | \(US\) Sales Development Representative | Remote, USA | 2d | [Open](https://findyourrolefirst.click/account?role=lever:pointclickcare:5aaaf912-ca44-4ccf-a307-9178e6a152ab) |
 | Influ2 | Enterprise Sales Development Representative | United States | 2d | [Open](https://findyourrolefirst.click/account?role=lever:influ2:4e2efc6a-4b8a-4cd4-aafc-ef688f268a5f) |
 | [Bozzuto](https://findyourrolefirst.click/companies/bozzuto) | Roving Sales & Marketing Associate - NOVA | Reston, VA, 20190 | 2d | [Open](https://findyourrolefirst.click/account?role=gh:bozzuto:5447034008) |
 | [1-800-GOT-JUNK?](https://findyourrolefirst.click/companies/1-800-got-junk) | Entry Level Sales & Laborer | Wilmington, NC | 2d | [Open](https://findyourrolefirst.click/account?role=gh:1800gotjunk:4438286009) |
-| [1-800-GOT-JUNK?](https://findyourrolefirst.click/companies/1-800-got-junk) | Entry Level Sales & Laborer | Chantilly, VA | 2d | [Open](https://findyourrolefirst.click/account?role=gh:1800gotjunk:4438271009) |
-| [1-800-GOT-JUNK?](https://findyourrolefirst.click/companies/1-800-got-junk) | Entry Level Sales & Laborer | Philadelphia, PA | 2d | [Open](https://findyourrolefirst.click/account?role=gh:1800gotjunk:4438268009) |
-| [1-800-GOT-JUNK?](https://findyourrolefirst.click/companies/1-800-got-junk) | Entry Level Sales & Laborer | Bedford Heights, OH | 2d | [Open](https://findyourrolefirst.click/account?role=gh:1800gotjunk:4438264009) |
-| [1-800-GOT-JUNK?](https://findyourrolefirst.click/companies/1-800-got-junk) | Entry Level Sales & Laborer | Charleston, SC | 2d | [Open](https://findyourrolefirst.click/account?role=gh:1800gotjunk:4438263009) |
 | [Greystar](https://findyourrolefirst.click/companies/greystar) | Marketing Associate - San Francisco Market | City Office San Francisco, San Francisco, CA | 3d | [Open](https://findyourrolefirst.click/account?role=workday:greystar-external:R0200430) |
 | [Workday](https://findyourrolefirst.click/companies/workday) | Sales Development Representative | USA, MA, Boston | 3d | [Open](https://findyourrolefirst.click/account?role=workday:workday-workday:JR-0110773) |
-| [Workday](https://findyourrolefirst.click/companies/workday) | Sales Development Representative | USA, IL, Chicago | 3d | [Open](https://findyourrolefirst.click/account?role=workday:workday-workday:JR-0110774) |
 | [Workiva](https://findyourrolefirst.click/companies/workiva) | Sales Development Representative | USA - Remote | 3d | [Open](https://findyourrolefirst.click/account?role=workday:workiva-careers:R12648) |
 | [Dowjones](https://findyourrolefirst.click/companies/dowjones) | Sales Development Representative, Dragonfly | NYC - 1211 Ave of the Americas | 3d | [Open](https://findyourrolefirst.click/account?role=workday:dowjones-dow_jones_career:Job_Req_55723) |
 | [Breakthru](https://findyourrolefirst.click/companies/breakthru) | Sales Development Representative \(Apollo\) | Davie, Florida | 3d | [Open](https://findyourrolefirst.click/account?role=workday:breakthru-bbg-us:R0044112) |
@@ -110,7 +102,6 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 | [Office Hours](https://findyourrolefirst.click/companies/office-hours) | Business Operations Associate | San Francisco | 3d | [Open](https://findyourrolefirst.click/account?role=ashby:office-hours:7168af42-26ad-4003-83a6-913f25fcc689) |
 | Convoso | \[Remote\] Sales Development Representative | Woodland Hills, CA | 3d | [Open](https://findyourrolefirst.click/account?role=gh:convoso:8877204002) |
 | [Assembled](https://findyourrolefirst.click/companies/assembled) | Enterprise Sales Development Representative \(SDR\) | New York City, NY | 3d | [Open](https://findyourrolefirst.click/account?role=ashby:assembledhq:253d55c1-0645-4d75-b875-8dd0b03197ec) |
-| [Assembled](https://findyourrolefirst.click/companies/assembled) | Enterprise Sales Development Representative \(SDR\) | San Francisco, CA | 3d | [Open](https://findyourrolefirst.click/account?role=ashby:assembledhq:1f14dd31-2c7f-4393-a6d9-317e00e7ab29) |
 | [OpenTable](https://findyourrolefirst.click/companies/opentable) | Sales Development Representative \(Hybrid\) | Chicago, IL | 3d | [Open](https://findyourrolefirst.click/account?role=gh:opentable:8869329002) |
 | [Profound Research](https://findyourrolefirst.click/companies/profound-research) | \*Entry Level Clinical Research Candidates-Talent Community \(Munster, IN\) | Munster, IN | 3d | [Open](https://findyourrolefirst.click/account?role=lever:profoundresearch:6acf8b43-ce97-436b-9194-b8288aefd550) |
 | [Profound Research](https://findyourrolefirst.click/companies/profound-research) | \*Entry Level Clinical Research Candidates-Talent Community \(Detroit, MI\) | Detroit, MI | 3d | [Open](https://findyourrolefirst.click/account?role=lever:profoundresearch:d9006a23-6b66-4275-9d8c-6e8f09924f34) |
@@ -118,47 +109,47 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 | [Profound Research](https://findyourrolefirst.click/companies/profound-research) | \*Entry Level Clinical Research Candidates-Talent Community \(Las Vegas, NV\) | Las Vegas, NV | 3d | [Open](https://findyourrolefirst.click/account?role=lever:profoundresearch:900e2449-af5c-4116-99a9-b5669aded469) |
 | [Profound Research](https://findyourrolefirst.click/companies/profound-research) | \*Entry Level Clinical Research Candidates-Talent Community \(Southern California\) | Southern California | 3d | [Open](https://findyourrolefirst.click/account?role=lever:profoundresearch:c815fc98-8c04-46e1-be95-898f05f353e0) |
 | Goveagle | Sales Development Representative | New York City | 3d | [Open](https://findyourrolefirst.click/account?role=ashby:goveagle:13b3b71a-6277-4b0d-a727-e2b044ebf0bf) |
+| [Culture Amp](https://findyourrolefirst.click/companies/culture-amp) | Sales Development Representative, Allbound | Chicago | 3d | [Open](https://findyourrolefirst.click/account?role=gh:cultureamp:8246129) |
+| Searchable | Sales Development Representative \(SDR\) - SMB | Utah, Salt Lake City | 3d | [Open](https://findyourrolefirst.click/account?role=ashby:searchable:9c2d46e2-e4a9-4081-a458-1162ba161bf0) |
+| Revenuevessel | Sales Development Representative | San Francisco Office | 4d | [Open](https://findyourrolefirst.click/account?role=ashby:revenuevessel:0f3ce74d-d938-4b50-84e9-2cb7ff81e352) |
+| [Procore](https://findyourrolefirst.click/companies/procore) | Sales Development Representative - DroneDeploy | US - Illinois | 4d | [Open](https://findyourrolefirst.click/account?role=workday:procore-procore_external_careers:R0018639) |
+| [Johnson & Johnson](https://findyourrolefirst.click/companies/johnson-johnson) | Associate Account Executive \(St. Louis, MO\) – Johnson & Johnson MedTech, Surgery | St. Louis, Missouri, United States | 4d | [Open](https://findyourrolefirst.click/account?role=workday:jj-jj:R-099061) |
+| [Johnson & Johnson](https://findyourrolefirst.click/companies/johnson-johnson) | Associate Account Executive – New York, NY- Johnson & Johnson MedTech - Surgery | New York \(Any City\) | 4d | [Open](https://findyourrolefirst.click/account?role=workday:jj-jj:R-103515) |
+| [Eversource](https://findyourrolefirst.click/companies/eversource) | Associate Account Executive, Energy Efficiency \(Hybrid Schedule\) | Westwood, MA | 4d | [Open](https://findyourrolefirst.click/account?role=workday:eversource-externalsite:R-032058) |
+| [Breakthru](https://findyourrolefirst.click/companies/breakthru) | Sales Development Representative - Chain Team \(Denver Metro / Denver East\) | Denver CO USA \(\+2 more\) | 4d | [Open](https://findyourrolefirst.click/account?role=workday:breakthru-bbg-us:R0044109) |
+| [Adobe](https://findyourrolefirst.click/companies/adobe) | 2027 University Graduate - Sales Development Representative | San Jose \(\+4 more\) | 4d | [Open](https://findyourrolefirst.click/account?role=workday:adobe-external_experienced:R172082) |
 
 ## Software engineering
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| [Highmarkhealth](https://findyourrolefirst.click/companies/highmarkhealth) | Associate Software Engineer | PA, Working at Home - Pennsylvania | 9h | [Open](https://findyourrolefirst.click/account?role=workday:highmarkhealth-highmark:J288028) |
-| [BD](https://findyourrolefirst.click/companies/bd) | Software Engineer I | USA MD - Sparks - 7 Loveton Circle | 33h | [Open](https://findyourrolefirst.click/account?role=workday:bdx-external_career_site_usa:R-557002) |
-| [ALTEN Technology USA](https://findyourrolefirst.click/companies/alten-technology-usa) | SAP ABAP & BTP Full Stack Developer \(Entry-Level\) | Foster City, California, United States | 39h | [Open](https://findyourrolefirst.click/account?role=gh:altentechnologyusa:5262456007) |
-| [Anduril Industries](https://findyourrolefirst.click/companies/anduril-industries) | 2027 Early Career Systems Engineer | Boston, Massachusetts, United States; Boulder, Colorado, Uni | 40h | [Open](https://findyourrolefirst.click/account?role=gh:andurilindustries:5262340007) |
-| [Freedom Technology Solutions Group](https://findyourrolefirst.click/companies/freedom-technology-solutions-group) | Junior Software Engineer 780 | Annapolis Junction, MD | 43h | [Open](https://findyourrolefirst.click/account?role=gh:freedomconsulting:5248064007) |
+| [Highmarkhealth](https://findyourrolefirst.click/companies/highmarkhealth) | Associate Software Engineer | PA, Working at Home - Pennsylvania | 10h | [Open](https://findyourrolefirst.click/account?role=workday:highmarkhealth-highmark:J288028) |
+| [BD](https://findyourrolefirst.click/companies/bd) | Software Engineer I | USA MD - Sparks - 7 Loveton Circle | 34h | [Open](https://findyourrolefirst.click/account?role=workday:bdx-external_career_site_usa:R-557002) |
+| [ALTEN Technology USA](https://findyourrolefirst.click/companies/alten-technology-usa) | SAP ABAP & BTP Full Stack Developer \(Entry-Level\) | Foster City, California, United States | 41h | [Open](https://findyourrolefirst.click/account?role=gh:altentechnologyusa:5262456007) |
+| [Anduril Industries](https://findyourrolefirst.click/companies/anduril-industries) | 2027 Early Career Systems Engineer | Boston, Massachusetts, United States; Boulder, Colorado, Uni | 42h | [Open](https://findyourrolefirst.click/account?role=gh:andurilindustries:5262340007) |
+| [Freedom Technology Solutions Group](https://findyourrolefirst.click/companies/freedom-technology-solutions-group) | Junior Software Engineer 780 | Annapolis Junction, MD | 45h | [Open](https://findyourrolefirst.click/account?role=gh:freedomconsulting:5248064007) |
 | Aurelian | Software Engineer \(New Grad\) | Seattle | 2d | [Open](https://findyourrolefirst.click/account?role=ashby:aurelian:a2bc965f-d639-41f7-946a-67c05c22e04e) |
 | [Cboe](https://findyourrolefirst.click/companies/cboe) | Associate Software Engineer, Web | Kansas City, MO | 2d | [Open](https://findyourrolefirst.click/account?role=workday:cboe-external_career_cboe:R-4582) |
 | [Vizient](https://findyourrolefirst.click/companies/vizient) | Associate Software Engineer | Irving TX 75062 Vizient Corporate HQ \(\+1 more\) | 2d | [Open](https://findyourrolefirst.click/account?role=workday:vizient-vizient_careers:35387R) |
 | [Troweprice](https://findyourrolefirst.click/companies/troweprice) | Associate Software Engineer | Owings Mills, MD | 2d | [Open](https://findyourrolefirst.click/account?role=workday:troweprice-troweprice:83767) |
 | [CACI](https://findyourrolefirst.click/companies/caci) | Junior Software Engineer | Sarasota, FL, US | 2d | [Open](https://findyourrolefirst.click/account?role=workday:caci-external:333295) |
 | [RTX](https://findyourrolefirst.click/companies/rtx) | Software Engineer I \(Onsite\) | US-IA-CEDAR RAPIDS-182 \~ 1100 Cimmie Ave Ne \~ BLDG 182 | 2d | [Open](https://findyourrolefirst.click/account?role=workday:globalhr-rec_rtx_ext_gateway:01850421) |
-| [RTX](https://findyourrolefirst.click/companies/rtx) | Software Engineer I \(Onsite\) | US-FL-ST PETERSBURG-381BD \~ 7401 22nd Ave N \~ BLDG D | 2d | [Open](https://findyourrolefirst.click/account?role=workday:globalhr-rec_rtx_ext_gateway:01874924) |
-| [RTX](https://findyourrolefirst.click/companies/rtx) | Software Engineer I \(Onsite\) | US-TX-RICHARDSON-C17 \~ 1717 Cityline Dr \~ CITYLINE C17 | 2d | [Open](https://findyourrolefirst.click/account?role=workday:globalhr-rec_rtx_ext_gateway:01875410) |
 | [RTX](https://findyourrolefirst.click/companies/rtx) | Embedded Security Software Engineer I \(Onsite\) | US-MA-TEWKSBURY-TB1 \~ 50 Apple Hill Dr \~ ASSABET BLDG | 2d | [Open](https://findyourrolefirst.click/account?role=workday:globalhr-rec_rtx_ext_gateway:01881440) |
 | [RTX](https://findyourrolefirst.click/companies/rtx) | Full Stack Software Engineer I \(Onsite\) | US-CA-SAN DIEGO-SD1 \~ 8650 Balboa Ave \~ SAN ANTONIO BLDG | 2d | [Open](https://findyourrolefirst.click/account?role=workday:globalhr-rec_rtx_ext_gateway:01881492) |
 | [RTX](https://findyourrolefirst.click/companies/rtx) | Embedded Software Engineer I \(Onsite\) | US-CA-SAN DIEGO-SD1 \~ 8650 Balboa Ave \~ SAN ANTONIO BLDG | 2d | [Open](https://findyourrolefirst.click/account?role=workday:globalhr-rec_rtx_ext_gateway:01881491) |
-| [RTX](https://findyourrolefirst.click/companies/rtx) | Embedded Software Engineer I \(Onsite\) | US-CA-FULLERTON-611 \~ 1801 Hughes Dr \~ BLDG 611 | 2d | [Open](https://findyourrolefirst.click/account?role=workday:globalhr-rec_rtx_ext_gateway:01881493) |
 | [RTX](https://findyourrolefirst.click/companies/rtx) | Web/Full Stack Software Engineer I \(Onsite\) | US-CA-FULLERTON-611 \~ 1801 Hughes Dr \~ BLDG 611 | 2d | [Open](https://findyourrolefirst.click/account?role=workday:globalhr-rec_rtx_ext_gateway:01881496) |
 | [Brain Corp](https://findyourrolefirst.click/companies/brain-corp) | Software Engineer I, Firmware | San Diego, CA | 2d | [Open](https://findyourrolefirst.click/account?role=gh:braincorporation:8879726002) |
 | [66degrees](https://findyourrolefirst.click/companies/66degrees) | Associate Software Engineer, Gradient Specialist | Chicago, IL | 2d | [Open](https://findyourrolefirst.click/account?role=gh:66degrees:6220274004) |
 | [Twitch](https://findyourrolefirst.click/companies/twitch) | Software Engineer I | San Francisco, CA | 2d | [Open](https://findyourrolefirst.click/account?role=gh:twitch:8879673002) |
 | [Snc](https://findyourrolefirst.click/companies/snc) | Software Engineer I | Lone Tree, CO | 3d | [Open](https://findyourrolefirst.click/account?role=workday:snc-snc_external_career_site:R0031014) |
-| [RTX](https://findyourrolefirst.click/companies/rtx) | Software Engineer I \(Onsite\) | US-IA-CEDAR RAPIDS-124 \~ 400 Collins Rd NE \~ BLDG 124 | 3d | [Open](https://findyourrolefirst.click/account?role=workday:globalhr-rec_rtx_ext_gateway:01871887) |
-| [RTX](https://findyourrolefirst.click/companies/rtx) | Embedded Security Software Engineer I \(Onsite\) | US-CA-EL SEGUNDO-R01 \~ 2000 E Imperial Hwy \~ BLDG R01 | 3d | [Open](https://findyourrolefirst.click/account?role=workday:globalhr-rec_rtx_ext_gateway:01881355) |
-| [RTX](https://findyourrolefirst.click/companies/rtx) | Embedded Security Software Engineer I \(Onsite\) | US-AZ-TUCSON-800 \~ 1151 E Hermans Rd \~ BLDG 800 | 3d | [Open](https://findyourrolefirst.click/account?role=workday:globalhr-rec_rtx_ext_gateway:01881370) |
-| [RTX](https://findyourrolefirst.click/companies/rtx) | Embedded Software Engineer I \(Onsite\) | US-CA-POINT MUGU-TR20 \~ 13th St and S L St \~ BLDG TR20 | 3d | [Open](https://findyourrolefirst.click/account?role=workday:globalhr-rec_rtx_ext_gateway:01881385) |
 | [Boeing](https://findyourrolefirst.click/companies/boeing) | Associate Software Engineer | USA - Maryland Heights, MO | 3d | [Open](https://findyourrolefirst.click/account?role=workday:boeing-external_careers:JR2026522010) |
 | [BMO](https://findyourrolefirst.click/companies/bmo) | Software Developer \( Early Career \)-15 | Irving, TX, USA | 3d | [Open](https://findyourrolefirst.click/account?role=workday:bmo-campus:R260021450) |
 | [Amazon](https://findyourrolefirst.click/companies/amazon) | Software Engineer I | San Francisco, California, USA | 3d | [Open](https://findyourrolefirst.click/account?role=amazon:amazon:10573768) |
 | [Csusystem](https://findyourrolefirst.click/companies/csusystem) | Junior Software Engineer | Chicago, IL 60615 | 3d | [Open](https://findyourrolefirst.click/account?role=workday:csusystem-fortcollins_careers:R2026107887) |
 | [RTX](https://findyourrolefirst.click/companies/rtx) | Software Engineer I, Onsite | US-IN-FT WAYNE-150A \~ 1010 Production Rd \~ BLDG 150A | 3d | [Open](https://findyourrolefirst.click/account?role=workday:globalhr-rec_rtx_ext_gateway:01881108) |
 | [Travelers](https://findyourrolefirst.click/companies/travelers) | Software Engineer I \(JavaScript, TypeScript, AWS, React, Node.js\) | MD   Baltimore \(\+2 more\) | 3d | [Open](https://findyourrolefirst.click/account?role=workday:travelers-external:R-51994) |
-| [RTX](https://findyourrolefirst.click/companies/rtx) | Embedded Software Engineer I \(Onsite\) | US-TX-MCKINNEY-513PW \~ 2501 W University Dr \~ PW BLDG | 3d | [Open](https://findyourrolefirst.click/account?role=workday:globalhr-rec_rtx_ext_gateway:01881232) |
 | [Applied Materials](https://findyourrolefirst.click/companies/applied-materials) | New College Grad Software Engineer I \(Bachelors - Santa Clara, CA\) | Santa Clara,CA | 3d | [Open](https://findyourrolefirst.click/account?role=workday:amat-external:R2628998) |
 | [IXL Learning](https://findyourrolefirst.click/companies/ixl-learning) | Software Engineer, New Grad | Raleigh, NC | 3d | [Open](https://findyourrolefirst.click/account?role=gh:ixllearning:8862049002) |
-| [IXL Learning](https://findyourrolefirst.click/companies/ixl-learning) | Software Engineer, New Grad | San Mateo, CA | 3d | [Open](https://findyourrolefirst.click/account?role=gh:ixllearning:8862043002) |
 | [Handshake](https://findyourrolefirst.click/companies/handshake) | Software Engineer I, Build Review & Test | San Francisco, CA | 3d | [Open](https://findyourrolefirst.click/account?role=ashby:handshake:b434ac30-8288-417a-96b0-29fa8dac7d58) |
 | Spruceid | Full-Stack Software Engineer \(New Grad\) – Remote | United States | 3d | [Open](https://findyourrolefirst.click/account?role=ashby:spruceid:3d182b7f-482e-45b2-8668-f04f0b5fda8e) |
 | [Otter.ai](https://findyourrolefirst.click/companies/otter-ai) | Software Engineer, Front-End \(New Grad\) | Mountain View, CA | 3d | [Open](https://findyourrolefirst.click/account?role=gh:otterai:8016078003) |
@@ -167,7 +158,6 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 | [CACI](https://findyourrolefirst.click/companies/caci) | Web Application Developer – Early Career | Chantilly VA US \(\+1 more\) | 4d | [Open](https://findyourrolefirst.click/account?role=workday:caci-external:333158) |
 | [CACI](https://findyourrolefirst.click/companies/caci) | Entry Level C\# Software Engineer | Virginia Beach, VA, US | 4d | [Open](https://findyourrolefirst.click/account?role=workday:caci-external:333249) |
 | [Sierraspace](https://findyourrolefirst.click/companies/sierraspace) | Software Engineer I - DevOps / DevSecOps | Louisville CO \(\+1 more\) | 4d | [Open](https://findyourrolefirst.click/account?role=workday:sierraspace-sierra_space_external_career_site:R26394) |
-| [Boeing](https://findyourrolefirst.click/companies/boeing) | Associate Software Engineer | USA - Berkeley, MO | 4d | [Open](https://findyourrolefirst.click/account?role=workday:boeing-external_careers:JR2026524131) |
 | [Mastercard](https://findyourrolefirst.click/companies/mastercard) | Software Engineer I | O'Fallon, Missouri | 4d | [Open](https://findyourrolefirst.click/account?role=workday:mastercard-corporatecareers:R-292618) |
 | [Leidos](https://findyourrolefirst.click/companies/leidos) | Junior Software Engineer | Huntsville, AL | 4d | [Open](https://findyourrolefirst.click/account?role=workday:leidos-external:R-00194081) |
 | [Hewlett Packard Enterprise](https://findyourrolefirst.click/companies/hewlett-packard-enterprise) | Systems/Software Engineer I - Graduate | Houston, Texas, United States of America | 4d | [Open](https://findyourrolefirst.click/account?role=workday:hpe-jobsathpe:1213648) |
@@ -175,12 +165,10 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 | [Perpay - Career's Page](https://findyourrolefirst.click/companies/perpay-career-s-page) | Super Day - Software Engineer, New Grad | Philadelphia, Pennsylvania, United States | 4d | [Open](https://findyourrolefirst.click/account?role=gh:perpay:5252881007) |
 | [Affirm](https://findyourrolefirst.click/companies/affirm) | Software Engineer, Early Career \(SF\) | San Francisco, California, United States | 4d | [Open](https://findyourrolefirst.click/account?role=gh:affirm:8010617003) |
 | [Affirm](https://findyourrolefirst.click/companies/affirm) | Software Engineer, Early Career \(NYC\) | New York, New York, United States | 4d | [Open](https://findyourrolefirst.click/account?role=gh:affirm:8008649003) |
-| [Highmarkhealth](https://findyourrolefirst.click/companies/highmarkhealth) | Associate Software Engineer | PA Working at Home   Pennsylvania \(\+50 more\) | 5d | [Open](https://findyourrolefirst.click/account?role=workday:highmarkhealth-highmark:J286291) |
 | [Nuro](https://findyourrolefirst.click/companies/nuro) | New Grad Software Engineer, Product Engineering | Mountain View, California \(HQ\) | 5d | [Open](https://findyourrolefirst.click/account?role=gh:nuro:8248317) |
 | [Hewlett Packard Enterprise](https://findyourrolefirst.click/companies/hewlett-packard-enterprise) | Graduate Systems/Software Engineer I | Bloomington, Minnesota, United States of America | 6d | [Open](https://findyourrolefirst.click/account?role=workday:hpe-jobsathpe:1213439) |
 | [Usaajobswd](https://findyourrolefirst.click/companies/usaajobswd) | Software Engineer I | San Antonio Home Office I | 6d | [Open](https://findyourrolefirst.click/account?role=workday:usaa-usaajobswd:R0120279) |
 | [RTX](https://findyourrolefirst.click/companies/rtx) | 2026 Raytheon Full Time - Receiver, Exciter, & Processing Architecture Software Engineer I - Marlborough, MA \(Onsite\) | US-MA-MARLBOROUGH-MA2 \~ 1001 Boston Post Rd \~ BLDG 2 | 6d | [Open](https://findyourrolefirst.click/account?role=workday:globalhr-rec_rtx_ext_gateway:01848076) |
-| [RTX](https://findyourrolefirst.click/companies/rtx) | Software Engineer I \(Onsite\) | US-AZ-TUCSON-805 \~ 1151 E Hermans Rd \~ BLDG 805 | 6d | [Open](https://findyourrolefirst.click/account?role=workday:globalhr-rec_rtx_ext_gateway:01879432) |
 | [LSEG](https://findyourrolefirst.click/companies/lseg) | Real-Time Software Engineer - Early Career | USA-St. Louis-795 Office Pkwy | 6d | [Open](https://findyourrolefirst.click/account?role=workday:lseg-careers:R0124057) |
 
 ---
