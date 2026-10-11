@@ -1,5 +1,6 @@
 """Rewrite README.md from Find your role first's public entry-level list. Standard library only."""
 import json
+import re
 import urllib.request
 from datetime import datetime, timezone
 
@@ -17,7 +18,10 @@ def age(stamp, now):
 
 
 def cell(text):
-    return str(text or "").replace("|", "/").replace("\n", " ").strip()
+    """Titles and company names come from outside sources: escape every Markdown and HTML character so
+    a title like "[apply here](link)" or "<img>" renders as plain text, never as a link or markup."""
+    text = str(text or "").replace("\n", " ").replace("|", "/").strip()
+    return re.sub(r"([\\`*_{}\[\]()<>#+!~])", r"\\\1", text)
 
 
 def main():
