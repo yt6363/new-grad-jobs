@@ -2,7 +2,7 @@
 
 New grad and entry-level roles in **product, data, design, business and software**, posted in the last 7 days, read straight from more than 15,000 company career sites (Greenhouse, Lever, Ashby, Workday and the big tech career sites). **Updated every hour.**
 
-Last update: October 12, 2026, 00:35 UTC · 128 roles listed
+Last update: October 12, 2026, 07:23 UTC · 128 roles listed
 
 Want these the hour they're posted, for your role and city? [Find your role first](https://findyourrolefirst.click) searches every new role as it appears, free for your first 200 roles, and works inside Claude and Codex. Looking for an internship? See [summer 2027 internships](https://github.com/yt6363/summer-2027-internships).
 
@@ -58,13 +58,13 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| Simple Ai | Sales Development Representative | San Francisco | 2h | [Open](https://findyourrolefirst.click/account?role=ashby:simple-ai:5fc78e7e-319f-4abb-9559-a51cc659aaf9) |
-| [Figma](https://findyourrolefirst.click/companies/figma) | Early Career, Inside Sales Representative \(2027\) | San Francisco, CA • New York, NY | 4h | [Open](https://findyourrolefirst.click/account?role=gh:figma:6174190004) |
-| [Destination Careers](https://findyourrolefirst.click/companies/destination-careers) | Entry-Level / Hospitality Support Coordinator | Houston, Texas | 9h | [Open](https://findyourrolefirst.click/account?role=lever:destinationknot:05992bc5-5409-4e72-95dd-236025364fe9) |
-| [CarMax](https://findyourrolefirst.click/companies/carmax) | Business Operations Associate - Full Time | MA - Boston - Westborough | 24h | [Open](https://findyourrolefirst.click/account?role=workday:carmax-external:JR-161609) |
-| [incident.io](https://findyourrolefirst.click/companies/incident-io) | Graduate Sales Development Representative \(SDR\) | San Francisco | 30h | [Open](https://findyourrolefirst.click/account?role=ashby:incident:ee0bfdb9-b537-4f07-9cc0-629ee9c7e5a8) |
-| [incident.io](https://findyourrolefirst.click/companies/incident-io) | Entry-Level Business Development Representative \(BDR\) | San Francisco | 30h | [Open](https://findyourrolefirst.click/account?role=ashby:incident:86264b1b-88b2-436c-af63-72a1560dd308) |
-| [Clera](https://findyourrolefirst.click/companies/clera) | Early-Career Account Executive | United States | 45h | [Open](https://findyourrolefirst.click/account?role=ashby:clera:527b00c5-056b-41ea-956e-9a998cee88d5) |
+| Simple Ai | Sales Development Representative | San Francisco | 9h | [Open](https://findyourrolefirst.click/account?role=ashby:simple-ai:5fc78e7e-319f-4abb-9559-a51cc659aaf9) |
+| [Figma](https://findyourrolefirst.click/companies/figma) | Early Career, Inside Sales Representative \(2027\) | San Francisco, CA • New York, NY | 11h | [Open](https://findyourrolefirst.click/account?role=gh:figma:6174190004) |
+| [Destination Careers](https://findyourrolefirst.click/companies/destination-careers) | Entry-Level / Hospitality Support Coordinator | Houston, Texas | 16h | [Open](https://findyourrolefirst.click/account?role=lever:destinationknot:05992bc5-5409-4e72-95dd-236025364fe9) |
+| [CarMax](https://findyourrolefirst.click/companies/carmax) | Business Operations Associate - Full Time | MA - Boston - Westborough | 31h | [Open](https://findyourrolefirst.click/account?role=workday:carmax-external:JR-161609) |
+| [incident.io](https://findyourrolefirst.click/companies/incident-io) | Graduate Sales Development Representative \(SDR\) | San Francisco | 36h | [Open](https://findyourrolefirst.click/account?role=ashby:incident:ee0bfdb9-b537-4f07-9cc0-629ee9c7e5a8) |
+| [incident.io](https://findyourrolefirst.click/companies/incident-io) | Entry-Level Business Development Representative \(BDR\) | San Francisco | 37h | [Open](https://findyourrolefirst.click/account?role=ashby:incident:86264b1b-88b2-436c-af63-72a1560dd308) |
+| [Clera](https://findyourrolefirst.click/companies/clera) | Early-Career Account Executive | United States | 2d | [Open](https://findyourrolefirst.click/account?role=ashby:clera:527b00c5-056b-41ea-956e-9a998cee88d5) |
 | [Verstela](https://findyourrolefirst.click/companies/verstela) | Market Sales Development Representative | Aurora, Illinois, United States; Bolingbrook, Illinois, Unit | 2d | [Open](https://findyourrolefirst.click/account?role=gh:verstela:5449227008) |
 | [Ping Identity](https://findyourrolefirst.click/companies/ping-identity) | Associate Sales Development Representative | USA - Austin, TX - Hybrid | 2d | [Open](https://findyourrolefirst.click/account?role=gh:pingidentity:8876826002) |
 | Levanta | Sales Development Representative | North Carolina \(Remote\), New York \(Remote\), Washington \ | 2d | [Open](https://findyourrolefirst.click/account?role=gh:levanta:5449319008) |
@@ -93,7 +93,7 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 | Influ2 | Enterprise Sales Development Representative | United States | 3d | [Open](https://findyourrolefirst.click/account?role=lever:influ2:4e2efc6a-4b8a-4cd4-aafc-ef688f268a5f) |
 | [Bozzuto](https://findyourrolefirst.click/companies/bozzuto) | Roving Sales & Marketing Associate - NOVA | Reston, VA, 20190 | 3d | [Open](https://findyourrolefirst.click/account?role=gh:bozzuto:5447034008) |
 | [1-800-GOT-JUNK?](https://findyourrolefirst.click/companies/1-800-got-junk) | Entry Level Sales & Laborer | Wilmington, NC | 3d | [Open](https://findyourrolefirst.click/account?role=gh:1800gotjunk:4438286009) |
-| [Greystar](https://findyourrolefirst.click/companies/greystar) | Marketing Associate - San Francisco Market | City Office San Francisco, San Francisco, CA | 3d | [Open](https://findyourrolefirst.click/account?role=workday:greystar-external:R0200430) |
+| [Greystar](https://findyourrolefirst.click/companies/greystar) | Marketing Associate - San Francisco Market | City Office San Francisco, San Francisco, CA | 4d | [Open](https://findyourrolefirst.click/account?role=workday:greystar-external:R0200430) |
 | [Workday](https://findyourrolefirst.click/companies/workday) | Sales Development Representative | USA, MA, Boston | 4d | [Open](https://findyourrolefirst.click/account?role=workday:workday-workday:JR-0110773) |
 | [Workiva](https://findyourrolefirst.click/companies/workiva) | Sales Development Representative | USA - Remote | 4d | [Open](https://findyourrolefirst.click/account?role=workday:workiva-careers:R12648) |
 | [Dowjones](https://findyourrolefirst.click/companies/dowjones) | Sales Development Representative, Dragonfly | NYC - 1211 Ave of the Americas | 4d | [Open](https://findyourrolefirst.click/account?role=workday:dowjones-dow_jones_career:Job_Req_55723) |
@@ -114,7 +114,7 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 | Goveagle | Sales Development Representative | New York City | 4d | [Open](https://findyourrolefirst.click/account?role=ashby:goveagle:13b3b71a-6277-4b0d-a727-e2b044ebf0bf) |
 | [Culture Amp](https://findyourrolefirst.click/companies/culture-amp) | Sales Development Representative, Allbound | Chicago | 4d | [Open](https://findyourrolefirst.click/account?role=gh:cultureamp:8246129) |
 | Searchable | Sales Development Representative \(SDR\) - SMB | Utah, Salt Lake City | 4d | [Open](https://findyourrolefirst.click/account?role=ashby:searchable:9c2d46e2-e4a9-4081-a458-1162ba161bf0) |
-| Revenuevessel | Sales Development Representative | San Francisco Office | 4d | [Open](https://findyourrolefirst.click/account?role=ashby:revenuevessel:0f3ce74d-d938-4b50-84e9-2cb7ff81e352) |
+| Revenuevessel | Sales Development Representative | San Francisco Office | 5d | [Open](https://findyourrolefirst.click/account?role=ashby:revenuevessel:0f3ce74d-d938-4b50-84e9-2cb7ff81e352) |
 | [Procore](https://findyourrolefirst.click/companies/procore) | Sales Development Representative - DroneDeploy | US - Illinois | 5d | [Open](https://findyourrolefirst.click/account?role=workday:procore-procore_external_careers:R0018639) |
 | [Johnson & Johnson](https://findyourrolefirst.click/companies/johnson-johnson) | Associate Account Executive \(St. Louis, MO\) – Johnson & Johnson MedTech, Surgery | St. Louis, Missouri, United States | 5d | [Open](https://findyourrolefirst.click/account?role=workday:jj-jj:R-099061) |
 | [Johnson & Johnson](https://findyourrolefirst.click/companies/johnson-johnson) | Associate Account Executive – New York, NY- Johnson & Johnson MedTech - Surgery | New York \(Any City\) | 5d | [Open](https://findyourrolefirst.click/account?role=workday:jj-jj:R-103515) |
@@ -123,7 +123,7 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| [Highmarkhealth](https://findyourrolefirst.click/companies/highmarkhealth) | Associate Software Engineer | PA, Working at Home - Pennsylvania | 24h | [Open](https://findyourrolefirst.click/account?role=workday:highmarkhealth-highmark:J288028) |
+| [Highmarkhealth](https://findyourrolefirst.click/companies/highmarkhealth) | Associate Software Engineer | PA, Working at Home - Pennsylvania | 31h | [Open](https://findyourrolefirst.click/account?role=workday:highmarkhealth-highmark:J288028) |
 | [BD](https://findyourrolefirst.click/companies/bd) | Software Engineer I | USA MD - Sparks - 7 Loveton Circle | 2d | [Open](https://findyourrolefirst.click/account?role=workday:bdx-external_career_site_usa:R-557002) |
 | [ALTEN Technology USA](https://findyourrolefirst.click/companies/alten-technology-usa) | SAP ABAP & BTP Full Stack Developer \(Entry-Level\) | Foster City, California, United States | 2d | [Open](https://findyourrolefirst.click/account?role=gh:altentechnologyusa:5262456007) |
 | [Anduril Industries](https://findyourrolefirst.click/companies/anduril-industries) | 2027 Early Career Systems Engineer | Boston, Massachusetts, United States; Boulder, Colorado, Uni | 2d | [Open](https://findyourrolefirst.click/account?role=gh:andurilindustries:5262340007) |
