@@ -4,7 +4,7 @@
 
 New grad and entry-level roles in **product, data, design, business and software**, posted in the last 7 days, read straight from more than 15,000 company career sites (Greenhouse, Lever, Ashby, Workday and the big tech career sites). **Updated every hour.**
 
-Last update: October 18, 2026, 05:56 UTC
+Last update: October 18, 2026, 11:09 UTC
 
 > [!TIP]
 > **Star this repo** to keep it handy. It rewrites itself every hour, newest roles on top.
@@ -25,7 +25,7 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| [Google](https://findyourrolefirst.click/companies/google) | Product Manager I, Ads Sellside Apps 🛂 | Mountain View, CA, USA | 37h | [Apply](https://www.google.com/about/careers/applications/jobs/results/98591892920246982) |
+| [Google](https://findyourrolefirst.click/companies/google) | Product Manager I, Ads Sellside Apps 🛂 | Mountain View, CA, USA | 42h | [Apply](https://www.google.com/about/careers/applications/jobs/results/98591892920246982) |
 | [BD](https://findyourrolefirst.click/companies/bd) | Associate Product Manager, Peripheral Intervention | USA IL   Vernon Hills \(\+1 more\) | 4d | [Apply](https://bdx.wd1.myworkdayjobs.com/external_career_site_usa/job/USA-IL---Vernon-Hills/Associate-Product-Manager--Peripheral-Intervention_R-556765) |
 | [PDI Technologies](https://findyourrolefirst.click/companies/pdi-technologies) | Product Owner I \(Entry-Level\) | Alpharetta, GA | 4d | [Apply](https://jobs.lever.co/pditechnologies/ba03923d-fb60-4203-b85e-5e18bc046a04/apply) |
 | [Natera](https://findyourrolefirst.click/companies/natera) | \(Associate\) Product Manager, Organ Health 🛂 | Austin, TX | 4d | [Apply](https://job-boards.greenhouse.io/natera/jobs/6217258004) |
@@ -37,7 +37,7 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| [Bank of America](https://findyourrolefirst.click/companies/bank-of-america) | AI Engineer - Data Scientist I 🛂 | New York \(\+1 more\) | 29h | [Apply](https://ghr.wd1.myworkdayjobs.com/lateral-us/job/New-York/AI-Engineer---Data-Scientist-I_26038294) |
+| [Bank of America](https://findyourrolefirst.click/companies/bank-of-america) | AI Engineer - Data Scientist I 🛂 | New York \(\+1 more\) | 35h | [Apply](https://ghr.wd1.myworkdayjobs.com/lateral-us/job/New-York/AI-Engineer---Data-Scientist-I_26038294) |
 | Stout | Analyst, Employee Stock Ownership Plans Investment Banking \(New Grad – July 2027 Start\) | Chicago IL | 2d | [Apply](https://stout.wd5.myworkdayjobs.com/stout-student-careers/job/Chicago-IL/Analyst--Employee-Stock-Ownership-Plans-Investment-Banking--New-Grad---July-2027-Start-_r2222-1) |
 | [CACI](https://findyourrolefirst.click/companies/caci) | Junior Data Analyst | Florham Park, NJ, US | 2d | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Florham-Park-NJ-US/Junior-Data-Analyst_332671) |
 | [Bank of America](https://findyourrolefirst.click/companies/bank-of-america) | Data Scientist I - Model Governance - Fraud Prevention and Detection 🛂 | Charlotte \(\+5 more\) | 3d | [Apply](https://ghr.wd1.myworkdayjobs.com/us-emplsv/job/Charlotte/Data-Scientist-I_26037331) |
@@ -60,18 +60,18 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| [Abaka AI](https://findyourrolefirst.click/companies/abaka-ai) | Event Marketing Associate | Mountain View, CA | 0h | [Apply](https://job-boards.greenhouse.io/abakaai/jobs/4439311009) |
-| [Clera](https://findyourrolefirst.click/companies/clera) | Sales Development Representative | Salt Lake City | 26h | [Apply](https://jobs.ashbyhq.com/clera/f3686d49-5207-476c-9a63-2acd04e345af/application) |
-| [Clera](https://findyourrolefirst.click/companies/clera) | Entry-Level Sales Development Representative \(SDR\) | Salt Lake City | 26h | [Apply](https://jobs.ashbyhq.com/clera/c2213e16-b9b2-4191-aa9e-c87cb8b66406/application) |
-| [Clera](https://findyourrolefirst.click/companies/clera) | Sales Development Representative, Mid-Level | San Francisco | 27h | [Apply](https://jobs.ashbyhq.com/clera/c3bc9f17-8db1-4ffe-b4f4-f1e72608ed31/application) |
-| Synthego | Scientific Associate Product Marketing Manager | Redwood City, CA | 33h | [Apply](https://jobs.lever.co/synthego/19694157-b0bf-4dcd-add3-7b2efe9f24f7/apply) |
-| [Apptronik](https://findyourrolefirst.click/companies/apptronik) | Strategy & Operations Associate | Remote US | 33h | [Apply](https://boards.greenhouse.io/apptronik/jobs/6227425004?gh_jid=6227425004) |
-| [Compass](https://findyourrolefirst.click/companies/compass) | Associate Sales Development Representative | Houston | 34h | [Apply](https://www.compass.com/careers?gh_jid=8290051) |
-| [1-800-GOT-JUNK?](https://findyourrolefirst.click/companies/1-800-got-junk) | Entry Level Sales & Laborer | Charleston, SC | 34h | [Apply](https://job-boards.greenhouse.io/1800gotjunk/jobs/4456252009) |
-| [Renuity](https://findyourrolefirst.click/companies/renuity) | Entry Level Sales Representative | Louisville, KY | 34h | [Apply](https://jobs.ashbyhq.com/renuity/babb77f3-1957-4d6e-a193-f5804e7ec894/application) |
-| [INFUSE](https://findyourrolefirst.click/companies/infuse) | Client Success Associate \(Entry level, Remote\) | United States | 35h | [Apply](https://job-boards.greenhouse.io/infuse/jobs/4744587005) |
-| [Clera](https://findyourrolefirst.click/companies/clera) | Early-Career Social Media and Email Marketing Specialist | New York | 36h | [Apply](https://jobs.ashbyhq.com/clera/75663081-dbed-4eb5-b28e-c4e47e267562/application) |
-| [Zscaler](https://findyourrolefirst.click/companies/zscaler) | Sales Development Representative 🛂 | Boston, Massachusetts, USA; Dallas, Texas, USA; Remote - Nor | 38h | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5267165007) |
+| [Abaka AI](https://findyourrolefirst.click/companies/abaka-ai) | Event Marketing Associate | Mountain View, CA | 5h | [Apply](https://job-boards.greenhouse.io/abakaai/jobs/4439311009) |
+| [Clera](https://findyourrolefirst.click/companies/clera) | Sales Development Representative | Salt Lake City | 31h | [Apply](https://jobs.ashbyhq.com/clera/f3686d49-5207-476c-9a63-2acd04e345af/application) |
+| [Clera](https://findyourrolefirst.click/companies/clera) | Entry-Level Sales Development Representative \(SDR\) | Salt Lake City | 31h | [Apply](https://jobs.ashbyhq.com/clera/c2213e16-b9b2-4191-aa9e-c87cb8b66406/application) |
+| [Clera](https://findyourrolefirst.click/companies/clera) | Sales Development Representative, Mid-Level | San Francisco | 32h | [Apply](https://jobs.ashbyhq.com/clera/c3bc9f17-8db1-4ffe-b4f4-f1e72608ed31/application) |
+| Synthego | Scientific Associate Product Marketing Manager | Redwood City, CA | 38h | [Apply](https://jobs.lever.co/synthego/19694157-b0bf-4dcd-add3-7b2efe9f24f7/apply) |
+| [Apptronik](https://findyourrolefirst.click/companies/apptronik) | Strategy & Operations Associate | Remote US | 38h | [Apply](https://boards.greenhouse.io/apptronik/jobs/6227425004?gh_jid=6227425004) |
+| [Compass](https://findyourrolefirst.click/companies/compass) | Associate Sales Development Representative | Houston | 39h | [Apply](https://www.compass.com/careers?gh_jid=8290051) |
+| [1-800-GOT-JUNK?](https://findyourrolefirst.click/companies/1-800-got-junk) | Entry Level Sales & Laborer | Charleston, SC | 39h | [Apply](https://job-boards.greenhouse.io/1800gotjunk/jobs/4456252009) |
+| [Renuity](https://findyourrolefirst.click/companies/renuity) | Entry Level Sales Representative | Louisville, KY | 39h | [Apply](https://jobs.ashbyhq.com/renuity/babb77f3-1957-4d6e-a193-f5804e7ec894/application) |
+| [INFUSE](https://findyourrolefirst.click/companies/infuse) | Client Success Associate \(Entry level, Remote\) | United States | 40h | [Apply](https://job-boards.greenhouse.io/infuse/jobs/4744587005) |
+| [Clera](https://findyourrolefirst.click/companies/clera) | Early-Career Social Media and Email Marketing Specialist | New York | 42h | [Apply](https://jobs.ashbyhq.com/clera/75663081-dbed-4eb5-b28e-c4e47e267562/application) |
+| [Zscaler](https://findyourrolefirst.click/companies/zscaler) | Sales Development Representative 🛂 | Boston, Massachusetts, USA; Dallas, Texas, USA; Remote - Nor | 44h | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5267165007) |
 | [Invesco](https://findyourrolefirst.click/companies/invesco) | Early Career Intern - Corporate Services, Travel and Events \(Finance\) | Atlanta, Georgia | 2d | [Apply](https://invesco.wd1.myworkdayjobs.com/ivz/job/Atlanta-Georgia/Early-Career-Intern---Corporate-Services--Travel-and-Events_R-15355-1) |
 | [Breakthru](https://findyourrolefirst.click/companies/breakthru) | Sales Development Representative - Denver South Metro | Denver CO USA | 2d | [Apply](https://breakthru.wd5.myworkdayjobs.com/bbg-us/job/Denver-CO-USA/Sales-Development-Representative---Denver-South-Metro_R0043865) |
 | [Turo](https://findyourrolefirst.click/companies/turo) | Host Marketing Associate 🛂 | San Francisco | 2d | [Apply](https://turo.wd12.myworkdayjobs.com/turo_careers/job/San-Francisco/Host-Marketing-Associate_R-102745) |
@@ -125,7 +125,7 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| [Axon](https://findyourrolefirst.click/companies/axon) | Software Engineer I | Seattle, Washington, United States | 32h | [Apply](https://job-boards.greenhouse.io/axon/jobs/7703668003) |
+| [Axon](https://findyourrolefirst.click/companies/axon) | Software Engineer I | Seattle, Washington, United States | 38h | [Apply](https://job-boards.greenhouse.io/axon/jobs/7703668003) |
 | [Together AI](https://findyourrolefirst.click/companies/together-ai) | Hardware Security Engineer, New Grad \(2027\) | San Francisco | 2d | [Apply](https://job-boards.greenhouse.io/togetherai/jobs/5238471007) |
 | [Morningstar](https://findyourrolefirst.click/companies/morningstar) | Associate Software Engineer 🛂 | Chicago \(\+1 more\) | 2d | [Apply](https://morningstar.wd5.myworkdayjobs.com/Morningstar/job/Chicago/Associate-Software-Engineer_REQ-058508-1) |
 | [Costar](https://findyourrolefirst.click/companies/costar) | Software Engineer I- CoStar Suite- Arlington, VA | US-VA Arlington | 2d | [Apply](https://costar.wd1.myworkdayjobs.com/costarcareers/job/US-VA-Arlington/Software-Engineer-I--CoStar-Suite--Arlington--VA_R40122) |
