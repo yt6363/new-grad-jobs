@@ -1,10 +1,10 @@
 # New grad and entry-level jobs (US)
 
-### 98 open roles · 4 posted in the last 48 hours
+### 98 open roles · 3 posted in the last 48 hours
 
 New grad and entry-level roles in **product, data, design, business and software**, posted in the last 7 days, read straight from more than 15,000 company career sites (Greenhouse, Lever, Ashby, Workday and the big tech career sites). **Updated every hour.**
 
-Last update: October 19, 2026, 01:21 UTC
+Last update: October 19, 2026, 07:49 UTC
 
 > [!TIP]
 > **Star this repo** to keep it handy. It rewrites itself every hour, newest roles on top.
@@ -58,10 +58,10 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| [Abaka AI](https://findyourrolefirst.click/companies/abaka-ai) | Event Marketing Associate | Mountain View, CA | 19h | [Apply](https://job-boards.greenhouse.io/abakaai/jobs/4439311009) |
-| [Clera](https://findyourrolefirst.click/companies/clera) | Sales Development Representative | Salt Lake City | 45h | [Apply](https://jobs.ashbyhq.com/clera/f3686d49-5207-476c-9a63-2acd04e345af/application) |
-| [Clera](https://findyourrolefirst.click/companies/clera) | Entry-Level Sales Development Representative \(SDR\) | Salt Lake City | 46h | [Apply](https://jobs.ashbyhq.com/clera/c2213e16-b9b2-4191-aa9e-c87cb8b66406/application) |
-| [Clera](https://findyourrolefirst.click/companies/clera) | Sales Development Representative, Mid-Level | San Francisco | 46h | [Apply](https://jobs.ashbyhq.com/clera/c3bc9f17-8db1-4ffe-b4f4-f1e72608ed31/application) |
+| [Clera](https://findyourrolefirst.click/companies/clera) | Sales Development Representative, Early Career | Salt Lake City | 5h | [Apply](https://jobs.ashbyhq.com/clera/a61f6fda-bb2f-4a26-8aaa-46515fcff0fe/application) |
+| [Clera](https://findyourrolefirst.click/companies/clera) | Sales Development Representative \(SDR\) | Salt Lake City | 5h | [Apply](https://jobs.ashbyhq.com/clera/c591a272-5f6d-4eeb-8e7a-5b6fb82e7044/application) |
+| [Abaka AI](https://findyourrolefirst.click/companies/abaka-ai) | Event Marketing Associate | Mountain View, CA | 26h | [Apply](https://job-boards.greenhouse.io/abakaai/jobs/4439311009) |
+| [Clera](https://findyourrolefirst.click/companies/clera) | Sales Development Representative, Mid-Level | San Francisco | 2d | [Apply](https://jobs.ashbyhq.com/clera/c3bc9f17-8db1-4ffe-b4f4-f1e72608ed31/application) |
 | Synthego | Scientific Associate Product Marketing Manager | Redwood City, CA | 2d | [Apply](https://jobs.lever.co/synthego/19694157-b0bf-4dcd-add3-7b2efe9f24f7/apply) |
 | [Apptronik](https://findyourrolefirst.click/companies/apptronik) | Strategy & Operations Associate | Remote US | 2d | [Apply](https://boards.greenhouse.io/apptronik/jobs/6227425004?gh_jid=6227425004) |
 | [Compass](https://findyourrolefirst.click/companies/compass) | Associate Sales Development Representative | Houston | 2d | [Apply](https://www.compass.com/careers?gh_jid=8290051) |
@@ -106,7 +106,7 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 | [Footprint](https://findyourrolefirst.click/companies/footprint) | Sales Development Representative \(Summer 2027\) | New York City | 4d | [Apply](https://jobs.ashbyhq.com/footprint/a5257bfd-9e5c-44a9-af18-129443cabc13/application) |
 | [Capital Technology Group](https://findyourrolefirst.click/companies/capital-technology-group) | Business Operations Associate | Hybrid \(Washington, DC - USA\) | 4d | [Apply](https://boards.greenhouse.io/capitaltg/jobs/5265493007?gh_jid=5265493007) |
 | Basata | Sales Development Representative | Tempe, Arizona | 4d | [Apply](https://jobs.ashbyhq.com/basata/f72e0919-2fd1-4ce0-85a5-3b8dcef6dfad/application) |
-| [Threecolts](https://findyourrolefirst.click/companies/threecolts) | Sales Development Representative | United States | 4d | [Apply](https://job-boards.eu.greenhouse.io/threecolts/jobs/5005218101) |
+| [Threecolts](https://findyourrolefirst.click/companies/threecolts) | Sales Development Representative | United States | 5d | [Apply](https://job-boards.eu.greenhouse.io/threecolts/jobs/5005218101) |
 | [Zrsmanagement](https://findyourrolefirst.click/companies/zrsmanagement) | Marketing Associate - PPC | Fort Lauderdale, FL | 5d | [Apply](https://zrsmanagement.wd5.myworkdayjobs.com/zrs_careers/job/Fort-Lauderdale-FL/Marketing-Associate---PPC_R-108540) |
 | [Breakthru](https://findyourrolefirst.click/companies/breakthru) | Sales Development Representative - Chains - Sacramento North | Sacramento, California | 5d | [Apply](https://breakthru.wd5.myworkdayjobs.com/bbg-us/job/Sacramento-California/Sales-Development-Representative---Chains---Sacramento-North_R0044185) |
 | Claytonhomes | Account Resolution Specialist \(Greensboro\) / Financial Services / Entry Level | Greensboro, NC | 5d | [Apply](https://claytonhomes.wd1.myworkdayjobs.com/vanderbilt/job/Greensboro-NC/Account-Resolution-Specialist--Greensboro----Financial-Services---Entry-Level_JR135309) |
@@ -124,7 +124,7 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
 | [Axon](https://findyourrolefirst.click/companies/axon) | Software Engineer I | Seattle, Washington, United States | 2d | [Apply](https://job-boards.greenhouse.io/axon/jobs/7703668003) |
-| [Together AI](https://findyourrolefirst.click/companies/together-ai) | Hardware Security Engineer, New Grad \(2027\) | San Francisco | 2d | [Apply](https://job-boards.greenhouse.io/togetherai/jobs/5238471007) |
+| [Together AI](https://findyourrolefirst.click/companies/together-ai) | Hardware Security Engineer, New Grad \(2027\) | San Francisco | 3d | [Apply](https://job-boards.greenhouse.io/togetherai/jobs/5238471007) |
 | [Morningstar](https://findyourrolefirst.click/companies/morningstar) | Associate Software Engineer 🛂 | Chicago \(\+1 more\) | 3d | [Apply](https://morningstar.wd5.myworkdayjobs.com/Morningstar/job/Chicago/Associate-Software-Engineer_REQ-058508-1) |
 | [Costar](https://findyourrolefirst.click/companies/costar) | Software Engineer I- CoStar Suite- Arlington, VA | US-VA Arlington | 3d | [Apply](https://costar.wd1.myworkdayjobs.com/costarcareers/job/US-VA-Arlington/Software-Engineer-I--CoStar-Suite--Arlington--VA_R40122) |
 | [Affirm](https://findyourrolefirst.click/companies/affirm) | Software Engineer I, Fullstack \(Search\) 🛂 | Remote US | 3d | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8017340003) |
