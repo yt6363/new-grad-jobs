@@ -1,10 +1,10 @@
 # New grad and entry-level jobs (US)
 
-### 107 open roles · 2 posted in the last 48 hours
+### 106 open roles · 4 posted in the last 48 hours
 
 New grad and entry-level roles in **product, data, design, business and software**, posted in the last 7 days, read straight from more than 15,000 company career sites (Greenhouse, Lever, Ashby, Workday and the big tech career sites). **Updated every hour.**
 
-Last update: October 26, 2026, 06:18 UTC
+Last update: October 26, 2026, 14:17 UTC
 
 > [!TIP]
 > **Star this repo** to keep it handy. It rewrites itself every hour, newest roles on top.
@@ -19,7 +19,7 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 - [Data, analytics and AI](#data-analytics-and-ai) (16)
 - [Design](#design) (1)
 - [Business, marketing and operations](#business-marketing-and-operations) (60)
-- [Software engineering](#software-engineering) (17)
+- [Software engineering](#software-engineering) (16)
 
 ## Product management
 
@@ -43,7 +43,7 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| [Addepar](https://findyourrolefirst.click/companies/addepar) | Product Manager - Early Career, AI Platform 🛂 | New York, NY | 2d | [Apply](https://job-boards.greenhouse.io/addepar1/jobs/8910404002) |
+| [Addepar](https://findyourrolefirst.click/companies/addepar) | Product Manager - Early Career, AI Platform 🛂 | New York, NY | 3d | [Apply](https://job-boards.greenhouse.io/addepar1/jobs/8910404002) |
 | [Amazon](https://findyourrolefirst.click/companies/amazon) | Data Scientist I, Central Learning Solutions Science 🛂 | Bellevue, Washington, USA | 3d | [Apply](https://account.amazon.jobs/jobs/10588066/apply) |
 | [Caterpillar](https://findyourrolefirst.click/companies/caterpillar) | Data Scientist I, Lens Customer Analytics 🛂 | Peoria, Illinois | 3d | [Apply](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Peoria-Illinois/Data-Scientist-I--Lens-Customer-Analytics_R0000400640) |
 | [Marsh McLennan](https://findyourrolefirst.click/companies/marsh-mclennan) | Marsh Risk Early Career Program, Summer Intern 2027 – Actuarial Analytics, NYC and Chicago | Chicago   155 Wacker \(\+1 more\) | 3d | [Apply](https://mmc.wd1.myworkdayjobs.com/mmc/job/Chicago---155-Wacker/Marsh-Risk-Early-Career-Program--Summer-Intern-2027---Actuarial-Analytics--NYC-and-Chicago_R_370673) |
@@ -52,7 +52,7 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 | [Xcelenergy](https://findyourrolefirst.click/companies/xcelenergy) | Associate Data Scientist - Workforce Analytics | Minneapolis MN 55401 \(\+2 more\) | 3d | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/external/job/Minneapolis-MN-55401/Associate-Data-Scientist---Workforce-Analytics_JR116164-1) |
 | [Hewlett Packard Enterprise](https://findyourrolefirst.click/companies/hewlett-packard-enterprise) | Test Engineer, HPC & AI Systems - \(Early Career\) 🛂 | Spring, Texas, United States of America | 3d | [Apply](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Test-Engineer--HPC---AI-Systems_1214365-3) |
 | [Affirm](https://findyourrolefirst.click/companies/affirm) | Analyst, Early Career \(Full Stack\) 🛂 | New York, New York, United States; San Francisco, California | 4d | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8039471003) |
-| [Google](https://findyourrolefirst.click/companies/google) | Associate Finance Analyst, University Graduate 🛂 | Chicago, IL, USA | 4d | [Apply](https://www.google.com/about/careers/applications/jobs/results/76356752739574470) |
+| [Google](https://findyourrolefirst.click/companies/google) | Associate Finance Analyst, University Graduate 🛂 | Chicago, IL, USA | 5d | [Apply](https://www.google.com/about/careers/applications/jobs/results/76356752739574470) |
 | [Intuitive](https://findyourrolefirst.click/companies/intuitive) | Entry Level Model Based Systems Engineer/Analyst | Huntsville, AL | 5d | [Apply](https://intuitive.wd1.myworkdayjobs.com/irtc_careers/job/Huntsville-AL/Entry-Level-Model-Based-Systems-Engineer-Analyst_2627-128) |
 | [Starfish](https://findyourrolefirst.click/companies/starfish) | Missile Defense Systems Engineer/Analyst-Entry Level | Huntsville, AL | 5d | [Apply](https://starfish.wd501.myworkdayjobs.com/careers/job/Huntsville-AL/Missile-Defense-Systems-Engineer-Analyst-Entry-Level_R2071) |
 | [Brain Co.](https://findyourrolefirst.click/companies/brain-co) | AI Product Engineer, 2027 New Grad | San Francisco Bay Area | 5d | [Apply](https://jobs.ashbyhq.com/brainco/c1788246-305f-4e4f-8b03-8444c76a466e/application) |
@@ -70,19 +70,20 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| [Invesco](https://findyourrolefirst.click/companies/invesco) | Early Career Intern - Internal Sales \(Global Liquidity\) | New York, New York | 6h | [Apply](https://invesco.wd1.myworkdayjobs.com/ivz/job/New-York-New-York/Early-Career-Intern---Internal-Sales--Global-Liquidity-_R-15865-1) |
-| [Clera](https://findyourrolefirst.click/companies/clera) | Sales Development Representative | Salt Lake City | 35h | [Apply](https://jobs.ashbyhq.com/clera/9d27640e-738f-44db-b086-9f98ecf255e0/application) |
+| [Breakthru](https://findyourrolefirst.click/companies/breakthru) | Sales Development Representative \(Apollo\) | Winter Garden, Florida | 14h | [Apply](https://breakthru.wd5.myworkdayjobs.com/bbg-us/job/Winter-Garden-Florida/Sales-Development-Representative--Apollo-_R0044315) |
+| [Invesco](https://findyourrolefirst.click/companies/invesco) | Early Career Intern - Internal Sales \(Global Liquidity\) | New York, New York | 14h | [Apply](https://invesco.wd1.myworkdayjobs.com/ivz/job/New-York-New-York/Early-Career-Intern---Internal-Sales--Global-Liquidity-_R-15865-1) |
+| [Clera](https://findyourrolefirst.click/companies/clera) | Sales Development Representative | Salt Lake City | 43h | [Apply](https://jobs.ashbyhq.com/clera/9d27640e-738f-44db-b086-9f98ecf255e0/application) |
 | [Axon](https://findyourrolefirst.click/companies/axon) | Enterprise Sales Development Representative | Boston, Massachusetts, United States | 2d | [Apply](https://job-boards.greenhouse.io/axon/jobs/8043318003) |
 | [Elastic](https://findyourrolefirst.click/companies/elastic) | Sales Development Representative - New York | New York, United States | 2d | [Apply](https://jobs.elastic.co/jobs?gh_jid=8318605&gh_jid=8318605) |
 | [IXL Learning](https://findyourrolefirst.click/companies/ixl-learning) | Marketing Associate, Rosetta Stone Consumer 🛂 | San Mateo, CA | 2d | [Apply](https://www.ixl.com/company/jobs?gh_jid=8911612002) |
 | Everway | Sales Development Representative | Remote, USA | 2d | [Apply](https://job-boards.greenhouse.io/everway/jobs/4721831006) |
 | [Savvy Wealth](https://findyourrolefirst.click/companies/savvy-wealth) | Client Marketing Associate | NYC Office | 2d | [Apply](https://jobs.ashbyhq.com/savvy/5c8f9e69-34f7-4b6e-8c15-05fbc1580da9/application) |
-| Suki | Sales Development Representative \(Suki for Clinicians\) | Remote, US | 2d | [Apply](https://www.suki.ai/open-positions?gh_jid=8041892003) |
-| [Lakefield Veterinary Group](https://findyourrolefirst.click/companies/lakefield-veterinary-group) | Regional Marketing Associate – Midwest Region | Lakefield Veterinary Group - Kent, WA | 2d | [Apply](https://job-boards.greenhouse.io/lakefieldveterinarygroup/jobs/4443019009) |
-| [Job&Talent](https://findyourrolefirst.click/companies/job-amp-talent) | US - Sales Development Representative Manager \(Detroit\) | Detroit, MI, US | 2d | [Apply](https://jobs.lever.co/jobandtalent/3e652594-3a8b-48c0-9f3d-d9b1f6fc41fd/apply) |
-| [Job&Talent](https://findyourrolefirst.click/companies/job-amp-talent) | US - Sales Development Representative Manager \(Charlotte\) | Charlotte, NC, US | 2d | [Apply](https://jobs.lever.co/jobandtalent/b08879dc-aa05-4b44-ade2-09ee8ec16c54/apply) |
-| [Job&Talent](https://findyourrolefirst.click/companies/job-amp-talent) | US - Sales Development Representative Manager \(Dallas\) | Dallas, TX, US | 2d | [Apply](https://jobs.lever.co/jobandtalent/e6800173-7713-489a-b3f5-39c334d8678f/apply) |
-| [OAK'S LAB](https://findyourrolefirst.click/companies/oak-39-s-lab) | Sales Development Representative \(US Market\) - Remote, US | United States | 2d | [Apply](https://jobs.ashbyhq.com/oakslab/179003a3-9a57-43a4-8176-6db0ef65c2a8/application) |
+| Suki | Sales Development Representative \(Suki for Clinicians\) | Remote, US | 3d | [Apply](https://www.suki.ai/open-positions?gh_jid=8041892003) |
+| [Lakefield Veterinary Group](https://findyourrolefirst.click/companies/lakefield-veterinary-group) | Regional Marketing Associate – Midwest Region | Lakefield Veterinary Group - Kent, WA | 3d | [Apply](https://job-boards.greenhouse.io/lakefieldveterinarygroup/jobs/4443019009) |
+| [Job&Talent](https://findyourrolefirst.click/companies/job-amp-talent) | US - Sales Development Representative Manager \(Detroit\) | Detroit, MI, US | 3d | [Apply](https://jobs.lever.co/jobandtalent/3e652594-3a8b-48c0-9f3d-d9b1f6fc41fd/apply) |
+| [Job&Talent](https://findyourrolefirst.click/companies/job-amp-talent) | US - Sales Development Representative Manager \(Charlotte\) | Charlotte, NC, US | 3d | [Apply](https://jobs.lever.co/jobandtalent/b08879dc-aa05-4b44-ade2-09ee8ec16c54/apply) |
+| [Job&Talent](https://findyourrolefirst.click/companies/job-amp-talent) | US - Sales Development Representative Manager \(Dallas\) | Dallas, TX, US | 3d | [Apply](https://jobs.lever.co/jobandtalent/e6800173-7713-489a-b3f5-39c334d8678f/apply) |
+| [OAK'S LAB](https://findyourrolefirst.click/companies/oak-39-s-lab) | Sales Development Representative \(US Market\) - Remote, US | United States | 3d | [Apply](https://jobs.ashbyhq.com/oakslab/179003a3-9a57-43a4-8176-6db0ef65c2a8/application) |
 | [Meta](https://findyourrolefirst.click/companies/meta) | Business Operations Associate, Wearables 🛂 | Burlingame, CA | 3d | [Apply](https://www.metacareers.com/profile/job_details/1090257880284659/) |
 | [Boeing](https://findyourrolefirst.click/companies/boeing) | Entry-Level Procurement Agent-1 🛂 | USA   Oklahoma City OK \(\+1 more\) | 3d | [Apply](https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Oklahoma-City-OK/Entry-Level-Procurement-Agent-1_JR2026524616) |
 | [Amazon](https://findyourrolefirst.click/companies/amazon) | Amazon Finance Rotational Program \(AFRP\) - Business Unit Finance, Early Career - 2027 🛂 | Seattle, Washington, USA | 3d | [Apply](https://account.amazon.jobs/jobs/10587748/apply) |
@@ -99,8 +100,8 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 | [Ping Identity](https://findyourrolefirst.click/companies/ping-identity) | Sales Development Representative | USA - Austin, TX - Hybrid | 3d | [Apply](https://job-boards.greenhouse.io/pingidentity/jobs/8886394002) |
 | [Bozzuto](https://findyourrolefirst.click/companies/bozzuto) | Roving Sales & Marketing Associate | Baltimore, MD, 21225 | 3d | [Apply](https://www.bozzuto.com/careers/job-search/5458581008/?gh_jid=5458581008) |
 | [Genius Sports](https://findyourrolefirst.click/companies/genius-sports) | Sales Development Representative - Sportsbook, North America | New York, New York, United States | 3d | [Apply](https://boards.greenhouse.io/geniussports/jobs/8041644003?gh_jid=8041644003) |
-| [Inspira Education](https://findyourrolefirst.click/companies/inspira-education) | Sales Development Representative | New York City, New York | 3d | [Apply](https://job-boards.greenhouse.io/inspiraeducation/jobs/5460924008) |
-| [1-800-GOT-JUNK?](https://findyourrolefirst.click/companies/1-800-got-junk) | Entry Level Sales & Laborer | Wilmington, NC | 3d | [Apply](https://job-boards.greenhouse.io/1800gotjunk/jobs/4463643009) |
+| [Inspira Education](https://findyourrolefirst.click/companies/inspira-education) | Sales Development Representative | New York City, New York | 4d | [Apply](https://job-boards.greenhouse.io/inspiraeducation/jobs/5460924008) |
+| [1-800-GOT-JUNK?](https://findyourrolefirst.click/companies/1-800-got-junk) | Entry Level Sales & Laborer | Wilmington, NC | 4d | [Apply](https://job-boards.greenhouse.io/1800gotjunk/jobs/4463643009) |
 | [PUMA](https://findyourrolefirst.click/companies/puma) | Junior Marketing Manager Running - TEMP | PUMA Boston International Office | 4d | [Apply](https://puma.wd502.myworkdayjobs.com/jobs_at_puma/job/PUMA-Boston-International-Office/Junior-Marketing-Manager-Running---TEMP_R44067) |
 | [Breakthru](https://findyourrolefirst.click/companies/breakthru) | Sales Development Representative - Colorado Springs | Colorado Springs, Colorado | 4d | [Apply](https://breakthru.wd5.myworkdayjobs.com/bbg-us/job/Colorado-Springs-Colorado/Sales-Development-Representative---Colorado-Springs_R0044300) |
 | [Ryancareers](https://findyourrolefirst.click/companies/ryancareers) | Associate Consultant, Single Family Residential Property Tax | Scottsdale AZ | 4d | [Apply](https://ryan.wd1.myworkdayjobs.com/ryancareers/job/Scottsdale/Associate-Consultant--Single-Family-Residential-Property-Tax_R0020682-1) |
@@ -128,13 +129,13 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 | [Inworld](https://findyourrolefirst.click/companies/inworld) | Sales Development Representative / Manager - USA | Mountain View, California, USA | 4d | [Apply](https://jobs.ashbyhq.com/inworld-ai/8e2ad821-c55a-49a2-996b-fb064c00a0cd/application) |
 | [IXL Learning](https://findyourrolefirst.click/companies/ixl-learning) | Regional Marketing Associate 🛂 | Raleigh, NC | 4d | [Apply](https://www.ixl.com/company/jobs?gh_jid=8904566002) |
 | [IXL Learning](https://findyourrolefirst.click/companies/ixl-learning) | Marketing Associate, Takeoff by IXL 🛂 | San Mateo, CA | 4d | [Apply](https://www.ixl.com/company/jobs?gh_jid=8900703002) |
-| [Path Robotics](https://findyourrolefirst.click/companies/path-robotics) | Sales Development Representative | Columbus, Ohio | 4d | [Apply](https://boards.greenhouse.io/pathrobotics/jobs/8905513002?gh_jid=8905513002) |
-| Natter | Sales Development Representative \(SDR\) | New York | 4d | [Apply](https://jobs.ashbyhq.com/natter/2c76be97-bdde-4e4a-9810-e5f2c008867b/application) |
+| [Path Robotics](https://findyourrolefirst.click/companies/path-robotics) | Sales Development Representative | Columbus, Ohio | 5d | [Apply](https://boards.greenhouse.io/pathrobotics/jobs/8905513002?gh_jid=8905513002) |
 
 ## Software engineering
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
+| [RTX](https://findyourrolefirst.click/companies/rtx) | Software Engineer I \(Onsite\) | US-IN-INDIANAPOLIS-206 \~ 3939 Priority Way S Dr \~ PRIORITY | 14h | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Engineer-I--Onsite-_01883492) |
 | [Boeing](https://findyourrolefirst.click/companies/boeing) | Associate Software Engineer 🛂 | USA - Maryland Heights, MO | 2d | [Apply](https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Maryland-Heights-MO/Associate-Software-Engineer_JR2026526419) |
 | [Boeing](https://findyourrolefirst.click/companies/boeing) | Entry-Level Software Engineer 🛂 | USA - Maryland Heights, MO | 3d | [Apply](https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026526418-1) |
 | [Oclc](https://findyourrolefirst.click/companies/oclc) | Associate Software Engineer - Search Team 🛂 | Dublin, OH / Hybrid | 3d | [Apply](https://oclc.wd1.myworkdayjobs.com/oclc_careers/job/Dublin-OH--Hybrid/Associate-Software-Engineer---Search-Team_R0003958) |
@@ -148,8 +149,6 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 | [Cdk](https://findyourrolefirst.click/companies/cdk) | Associate Software Engineer | Austin, TX, USA | 4d | [Apply](https://cdk.wd1.myworkdayjobs.com/cdk/job/Austin-TX-USA/Associate-Software-Engineer_JR9204) |
 | [Twitch](https://findyourrolefirst.click/companies/twitch) | Software Engineer I | Seattle, WA | 4d | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8906750002) |
 | [Vizient](https://findyourrolefirst.click/companies/vizient) | Associate Software Engineer 🛂 | Irving, TX 75062 Vizient Corporate HQ | 5d | [Apply](https://vizient.wd1.myworkdayjobs.com/vizient_careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Associate-Software-Engineer_35366R) |
-| [RTX](https://findyourrolefirst.click/companies/rtx) | Software Engineer I -  Test Solutions - Onsite | US-AZ-TUCSON-801 \~ 1151 E Hermans Rd \~ BLDG 801 \(External | 5d | [Apply](https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-I----Test-Solutions---Onsite_01836492-1) |
-| [RTX](https://findyourrolefirst.click/companies/rtx) | Software Engineer I \(Onsite\) | US-IA-CEDAR RAPIDS-130 \~ 5350 C Ave NE \~ BLDG 130 | 5d | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineer-I--Onsite-_01883922) |
 | [Palantir Technologies](https://findyourrolefirst.click/companies/palantir-technologies) | Software Engineer, New Grad - Query Engines 🛂 | New York, NY | 6d | [Apply](https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac/apply) |
 | [Apple](https://findyourrolefirst.click/companies/apple) | Software Engineer, IS&T Early Career Opportunities 🛂 | Cupertino | 6d | [Apply](https://jobs.apple.com/en-us/details/200689349-0836/software-engineer-is-t-early-career-opportunities) |
 
