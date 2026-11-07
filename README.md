@@ -1,10 +1,10 @@
 # New grad and entry-level jobs (US)
 
-### 98 open roles · 41 posted in the last 48 hours
+### 97 open roles · 41 posted in the last 48 hours
 
 New grad and entry-level roles in **product, data, design, business and software**, posted in the last 7 days, read straight from more than 15,000 company career sites (Greenhouse, Lever, Ashby, Workday and the big tech career sites). **Updated every hour.**
 
-Last update: November 07, 2026, 02:50 UTC
+Last update: November 07, 2026, 10:14 UTC
 
 > [!TIP]
 > **Star this repo** to keep it handy. It rewrites itself every hour, newest roles on top.
@@ -16,7 +16,7 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 ## Jump to
 
 - [Product management](#product-management) (5)
-- [Data, analytics and AI](#data-analytics-and-ai) (10)
+- [Data, analytics and AI](#data-analytics-and-ai) (9)
 - [Design](#design) (2)
 - [Business, marketing and operations](#business-marketing-and-operations) (60)
 - [Software engineering](#software-engineering) (21)
@@ -25,8 +25,8 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| Tint | Associate Product Manager | US - Remote | 6h | [Apply](https://job-boards.greenhouse.io/tintai/jobs/4751433005) |
-| [Twin Health](https://findyourrolefirst.click/companies/twin-health) | Associate Product Manager, Nutrition | Remote, USA | 7h | [Apply](https://job-boards.greenhouse.io/twinhealth/jobs/6242589004) |
+| Tint | Associate Product Manager | US - Remote | 14h | [Apply](https://job-boards.greenhouse.io/tintai/jobs/4751433005) |
+| [Twin Health](https://findyourrolefirst.click/companies/twin-health) | Associate Product Manager, Nutrition | Remote, USA | 15h | [Apply](https://job-boards.greenhouse.io/twinhealth/jobs/6242589004) |
 | [Stanley Black & Decker](https://findyourrolefirst.click/companies/stanley-black-decker) | Associate Product Manager - Sets & Promotions , DEWALT 🛂 | Towson, MD, United States | 2d | [Apply](https://sbdinc.wd1.myworkdayjobs.com/stanley_black_decker_career_site/job/Towson-MD-United-States/Associate-Product-Manager---Sets---Promotions---DEWALT_REQ-1000053202) |
 | [Globusmedical](https://findyourrolefirst.click/companies/globusmedical) | Associate Product Manager | Audubon, PA | 2d | [Apply](https://globusmedical.wd5.myworkdayjobs.com/gmed_careers/job/Audubon-PA/Associate-Product-Manager_JR107912) |
 | [Rho](https://findyourrolefirst.click/companies/rho) | Associate Product Manager | NYC | 4d | [Apply](https://jobs.ashbyhq.com/rho/ff7900c4-1561-4bc3-8799-694ac6e62d1e/application) |
@@ -35,13 +35,12 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| [Invesco](https://findyourrolefirst.click/companies/invesco) | Early Career Intern - Real Estate \(Data Science\) | Dallas, Texas | 26h | [Apply](https://invesco.wd1.myworkdayjobs.com/ivz/job/Dallas-Texas/Early-Career-Intern---Real-Estate--Data-Science-_R-15091-1) |
-| [Cengage](https://findyourrolefirst.click/companies/cengage) | Associate Data Analyst, Marketing | Ohio USA \(\+1 more\) | 26h | [Apply](https://cengage.wd5.myworkdayjobs.com/cengagenorthamericacareers/job/Ohio-USA/Associate-Data-Analyst--Marketing_R2026-1330) |
+| [Invesco](https://findyourrolefirst.click/companies/invesco) | Early Career Intern - Real Estate \(Data Science\) | Dallas, Texas | 34h | [Apply](https://invesco.wd1.myworkdayjobs.com/ivz/job/Dallas-Texas/Early-Career-Intern---Real-Estate--Data-Science-_R-15091-1) |
+| [Cengage](https://findyourrolefirst.click/companies/cengage) | Associate Data Analyst, Marketing | Ohio USA \(\+1 more\) | 34h | [Apply](https://cengage.wd5.myworkdayjobs.com/cengagenorthamericacareers/job/Ohio-USA/Associate-Data-Analyst--Marketing_R2026-1330) |
 | [Bank of America](https://findyourrolefirst.click/companies/bank-of-america) | Data Scientist I 🛂 | Charlotte \(\+1 more\) | 2d | [Apply](https://ghr.wd1.myworkdayjobs.com/us-emplsv/job/Charlotte/Data-Scientist-I_26041127-3) |
 | [Cardinal Health](https://findyourrolefirst.click/companies/cardinal-health) | Data & Analytics Early Career Development Program \(Embark\) 🛂 | OH-Dublin-Cardinal Place | 2d | [Apply](https://cardinalhealth.wd1.myworkdayjobs.com/ext/job/OH-Dublin-Cardinal-Place/Data---Analytics-Early-Career-Development-Program--Embark-_20190569) |
 | [Sonyglobal](https://findyourrolefirst.click/companies/sonyglobal) | Associate Data Analyst | San Diego | 3d | [Apply](https://sonyglobal.wd1.myworkdayjobs.com/sonyglobalcareers/job/San-Diego/Associate-Data-Analyst_JR-119868) |
 | [SambaNova](https://findyourrolefirst.click/companies/sambanova) | Machine Learning Engineer - New Grad | Austin, Texas, United States; San Jose, California, United S | 3d | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6240725004) |
-| [Adobe](https://findyourrolefirst.click/companies/adobe) | 2027 University Graduate - Enterprise Architecture Analyst 🛂 | Austin | 4d | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Austin/XMLNAME-2027-University-Graduate---Enterprise-Architecture-Analyst_R173280) |
 | [Guidehouse](https://findyourrolefirst.click/companies/guidehouse) | Data Analyst I 🛂 | US - VA, Norfolk | 5d | [Apply](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-Norfolk/Data-Analyst-I_45743-1) |
 | [Nascar](https://findyourrolefirst.click/companies/nascar) | Junior Data Scientist | Daytona Beach, FL | 5d | [Apply](https://nascar.wd1.myworkdayjobs.com/nascar/job/Daytona-Beach-FL/Junior-Data-Scientist_JR14445) |
 | [Barclays](https://findyourrolefirst.click/companies/barclays) | S&T - Prime Sales Analyst Graduate Program 2027 New York | New York, 745 7th Avenue | 5d | [Apply](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/New-York-745-7th-Avenue/S-T---Securitized-Products-Origination-Analyst-Graduate-Program-2027-New-York_JR-0000122967) |
@@ -57,37 +56,37 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| [HeyGen](https://findyourrolefirst.click/companies/heygen) | Sales Development Representative | Los Angeles, California, United States, San Francisco, Calif | 2h | [Apply](https://job-boards.greenhouse.io/heygen/jobs/5288025007) |
-| [FanDuel](https://findyourrolefirst.click/companies/fanduel) | Customer Marketing Associate, Promotional Strategy | New York City | 2h | [Apply](https://www.fanduel.careers/open-positions?gh_jid=8346749) |
-| [FanDuel](https://findyourrolefirst.click/companies/fanduel) | SEO Marketing Associate | New York City | 3h | [Apply](https://www.fanduel.careers/open-positions?gh_jid=8333930) |
-| [Compass](https://findyourrolefirst.click/companies/compass) | Sales Development Representative | Houston | 3h | [Apply](https://www.compass.com/careers?gh_jid=8360594) |
-| [Ellipsis Health](https://findyourrolefirst.click/companies/ellipsis-health) | Business Operations Associate | New York - Hybrid | 4h | [Apply](https://jobs.ashbyhq.com/ellipsis-health/e457e765-0dc8-4b31-bc9c-872e5aae045a/application) |
-| [Dialpad](https://findyourrolefirst.click/companies/dialpad) | Sales Development Representative | Tempe, US | 6h | [Apply](https://job-boards.greenhouse.io/dialpad/jobs/8931999002) |
-| [Pylon](https://findyourrolefirst.click/companies/pylon) | Sales Development Representative | San Francisco | 6h | [Apply](https://jobs.ashbyhq.com/pylon-labs/a0cafb14-100f-424c-9fc4-562983c7e147/application) |
-| [EliseAI](https://findyourrolefirst.click/companies/eliseai) | Sales Development Representative / Housing | New York City | 7h | [Apply](https://jobs.ashbyhq.com/EliseAI/2b794cdc-49fc-4e0b-9a7f-c94c0a40abe9/application) |
-| Nanopath | Business Operations Associate | Cambridge, MA | 7h | [Apply](https://nanopath.com/careers?gh_jid=4751941005) |
-| [Mochi Health](https://findyourrolefirst.click/companies/mochi-health) | Marketing Associate | San Francisco, CA | 8h | [Apply](https://job-boards.greenhouse.io/mochihealth/jobs/5475116008) |
-| [Netradyne](https://findyourrolefirst.click/companies/netradyne) | Strategic Enterprise Sales Development Representative | San Diego, California, United States | 8h | [Apply](https://www.netradyne.com/company/careers?gh_jid=4751747005) |
-| SonderMind | Sales Development Representative | Denver, CO | 9h | [Apply](https://jobs.ashbyhq.com/Sondermind/00ab6a1b-ad5c-4f71-ba34-2ec053940367/application) |
-| Esper | Sales Development Representative | Austin, Texas | 11h | [Apply](https://jobs.lever.co/esper/f61cd3ab-edce-405c-baf7-32b34e038037/apply) |
-| [Mitratech](https://findyourrolefirst.click/companies/mitratech) | Associate Product Marketing Manager – GRC | Remore -US | 22h | [Apply](https://job-boards.greenhouse.io/mitratech/jobs/8353783) |
-| [Pushpay](https://findyourrolefirst.click/companies/pushpay) | Sales Development Representative, Resi | Allen, TX; Colorado Springs, CO; Remote | 26h | [Apply](https://job-boards.greenhouse.io/pushpay/jobs/8357317) |
-| [Bbinsurance](https://findyourrolefirst.click/companies/bbinsurance) | Sales Development Representative | Bethlehem, PA, USA | 26h | [Apply](https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Bethlehem-PA-USA/Sales-Development-Representative_R26_0000003919) |
-| [Boeing](https://findyourrolefirst.click/companies/boeing) | Entry Level Procurement Agent 🛂 | USA - Huntsville, AL | 26h | [Apply](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Huntsville-AL/Entry-Level-Procurement-Agent_JR2026525739) |
-| [Breakthru](https://findyourrolefirst.click/companies/breakthru) | Sales Development Representative - Multi-Cultural - Greater San Fernando Valley | Northridge California \(\+1 more\) | 26h | [Apply](https://breakthru.wd5.myworkdayjobs.com/bbg-us/job/Northridge-California/Sales-Development-Representative---Multi-Cultural---Greater-San-Fernando-Valley_R0044492) |
-| [Morningstar](https://findyourrolefirst.click/companies/morningstar) | Sales Development Representative 🛂 | Chicago | 26h | [Apply](https://morningstar.wd5.myworkdayjobs.com/Morningstar/job/Chicago/Sales-Development-Representative_REQ-059057) |
-| [Infobip](https://findyourrolefirst.click/companies/infobip) | Integrated Marketing Associate | Chicago \(USA\) | 26h | [Apply](https://infobip.wd3.myworkdayjobs.com/infobipcareers/job/Chicago-USA/Integrated-Marketing-Associate_JR105122-1) |
-| [DH Pace](https://findyourrolefirst.click/companies/dh-pace) | Project Manager-Entry level | Olathe KS | 29h | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5474920008) |
-| [Datadog](https://findyourrolefirst.click/companies/datadog) | Sales Development Representative - Summer 2027 Graduates \(Denver\) 🛂 | Denver, Colorado, USA | 30h | [Apply](https://careers.datadoghq.com/detail/8285486/?gh_jid=8285486) |
-| [Sumo Logic](https://findyourrolefirst.click/companies/sumo-logic) | Sales Development Representative I 🛂 | Austin, Texas, USA | 30h | [Apply](https://job-boards.greenhouse.io/sumologic/jobs/8356857) |
-| Teero | Sales Development Representative | Austin | 30h | [Apply](https://jobs.ashbyhq.com/teero/2f52b471-86c8-4582-a234-d30602472fea/application) |
-| [Verkada](https://findyourrolefirst.click/companies/verkada) | Channel Marketing Associate 🛂 | Denver, CO United States | 30h | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5280624007) |
-| [1-800-GOT-JUNK?](https://findyourrolefirst.click/companies/1-800-got-junk) | Entry Level Sales & Laborer | Wilmington, NC | 31h | [Apply](https://job-boards.greenhouse.io/1800gotjunk/jobs/4482911009) |
-| [DoiT](https://findyourrolefirst.click/companies/doit) | Sales Development Representative, SELECT - North America | Remote US | 32h | [Apply](https://job-boards.greenhouse.io/doitintl/jobs/8196425003) |
-| [Enova International](https://findyourrolefirst.click/companies/enova-international) | Business Operations Associate - CashNet USA | Chicago, IL | 34h | [Apply](https://job-boards.greenhouse.io/enova/jobs/8256308) |
-| Stensul | Sales Development Representative | New York | 34h | [Apply](https://jobs.ashbyhq.com/stensul/c762466b-f539-4f33-ac5f-88b8fb825bf1/application) |
-| Real-Time Innovations | Sales Development Representative | Denver, Colorado | 34h | [Apply](https://job-boards.greenhouse.io/rti/jobs/8337922) |
-| Ello | Marketing Associate \(Contract\) | San Francisco, CA | 37h | [Apply](https://jobs.ashbyhq.com/ello/fb8af180-04a9-48dd-94ea-01627db57b19/application) |
+| [HeyGen](https://findyourrolefirst.click/companies/heygen) | Sales Development Representative | Los Angeles, California, United States, San Francisco, Calif | 9h | [Apply](https://job-boards.greenhouse.io/heygen/jobs/5288025007) |
+| [FanDuel](https://findyourrolefirst.click/companies/fanduel) | Customer Marketing Associate, Promotional Strategy | New York City | 10h | [Apply](https://www.fanduel.careers/open-positions?gh_jid=8346749) |
+| [FanDuel](https://findyourrolefirst.click/companies/fanduel) | SEO Marketing Associate | New York City | 10h | [Apply](https://www.fanduel.careers/open-positions?gh_jid=8333930) |
+| [Compass](https://findyourrolefirst.click/companies/compass) | Sales Development Representative | Houston | 11h | [Apply](https://www.compass.com/careers?gh_jid=8360594) |
+| [Ellipsis Health](https://findyourrolefirst.click/companies/ellipsis-health) | Business Operations Associate | New York - Hybrid | 11h | [Apply](https://jobs.ashbyhq.com/ellipsis-health/e457e765-0dc8-4b31-bc9c-872e5aae045a/application) |
+| [Dialpad](https://findyourrolefirst.click/companies/dialpad) | Sales Development Representative | Tempe, US | 13h | [Apply](https://job-boards.greenhouse.io/dialpad/jobs/8931999002) |
+| [Pylon](https://findyourrolefirst.click/companies/pylon) | Sales Development Representative | San Francisco | 14h | [Apply](https://jobs.ashbyhq.com/pylon-labs/a0cafb14-100f-424c-9fc4-562983c7e147/application) |
+| [EliseAI](https://findyourrolefirst.click/companies/eliseai) | Sales Development Representative / Housing | New York City | 14h | [Apply](https://jobs.ashbyhq.com/EliseAI/2b794cdc-49fc-4e0b-9a7f-c94c0a40abe9/application) |
+| Nanopath | Business Operations Associate | Cambridge, MA | 15h | [Apply](https://nanopath.com/careers?gh_jid=4751941005) |
+| [Mochi Health](https://findyourrolefirst.click/companies/mochi-health) | Marketing Associate | San Francisco, CA | 15h | [Apply](https://job-boards.greenhouse.io/mochihealth/jobs/5475116008) |
+| [Netradyne](https://findyourrolefirst.click/companies/netradyne) | Strategic Enterprise Sales Development Representative | San Diego, California, United States | 16h | [Apply](https://www.netradyne.com/company/careers?gh_jid=4751747005) |
+| SonderMind | Sales Development Representative | Denver, CO | 16h | [Apply](https://jobs.ashbyhq.com/Sondermind/00ab6a1b-ad5c-4f71-ba34-2ec053940367/application) |
+| Esper | Sales Development Representative | Austin, Texas | 18h | [Apply](https://jobs.lever.co/esper/f61cd3ab-edce-405c-baf7-32b34e038037/apply) |
+| [Mitratech](https://findyourrolefirst.click/companies/mitratech) | Associate Product Marketing Manager – GRC | Remore -US | 30h | [Apply](https://job-boards.greenhouse.io/mitratech/jobs/8353783) |
+| [Pushpay](https://findyourrolefirst.click/companies/pushpay) | Sales Development Representative, Resi | Allen, TX; Colorado Springs, CO; Remote | 33h | [Apply](https://job-boards.greenhouse.io/pushpay/jobs/8357317) |
+| [Bbinsurance](https://findyourrolefirst.click/companies/bbinsurance) | Sales Development Representative | Bethlehem, PA, USA | 34h | [Apply](https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Bethlehem-PA-USA/Sales-Development-Representative_R26_0000003919) |
+| [Boeing](https://findyourrolefirst.click/companies/boeing) | Entry Level Procurement Agent 🛂 | USA - Huntsville, AL | 34h | [Apply](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Huntsville-AL/Entry-Level-Procurement-Agent_JR2026525739) |
+| [Breakthru](https://findyourrolefirst.click/companies/breakthru) | Sales Development Representative - Multi-Cultural - Greater San Fernando Valley | Northridge California \(\+1 more\) | 34h | [Apply](https://breakthru.wd5.myworkdayjobs.com/bbg-us/job/Northridge-California/Sales-Development-Representative---Multi-Cultural---Greater-San-Fernando-Valley_R0044492) |
+| [Morningstar](https://findyourrolefirst.click/companies/morningstar) | Sales Development Representative 🛂 | Chicago | 34h | [Apply](https://morningstar.wd5.myworkdayjobs.com/Morningstar/job/Chicago/Sales-Development-Representative_REQ-059057) |
+| [Infobip](https://findyourrolefirst.click/companies/infobip) | Integrated Marketing Associate | Chicago \(USA\) | 34h | [Apply](https://infobip.wd3.myworkdayjobs.com/infobipcareers/job/Chicago-USA/Integrated-Marketing-Associate_JR105122-1) |
+| [DH Pace](https://findyourrolefirst.click/companies/dh-pace) | Project Manager-Entry level | Olathe KS | 36h | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5474920008) |
+| [Datadog](https://findyourrolefirst.click/companies/datadog) | Sales Development Representative - Summer 2027 Graduates \(Denver\) 🛂 | Denver, Colorado, USA | 37h | [Apply](https://careers.datadoghq.com/detail/8285486/?gh_jid=8285486) |
+| [Sumo Logic](https://findyourrolefirst.click/companies/sumo-logic) | Sales Development Representative I 🛂 | Austin, Texas, USA | 37h | [Apply](https://job-boards.greenhouse.io/sumologic/jobs/8356857) |
+| Teero | Sales Development Representative | Austin | 38h | [Apply](https://jobs.ashbyhq.com/teero/2f52b471-86c8-4582-a234-d30602472fea/application) |
+| [Verkada](https://findyourrolefirst.click/companies/verkada) | Channel Marketing Associate 🛂 | Denver, CO United States | 38h | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5280624007) |
+| [1-800-GOT-JUNK?](https://findyourrolefirst.click/companies/1-800-got-junk) | Entry Level Sales & Laborer | Wilmington, NC | 38h | [Apply](https://job-boards.greenhouse.io/1800gotjunk/jobs/4482911009) |
+| [DoiT](https://findyourrolefirst.click/companies/doit) | Sales Development Representative, SELECT - North America | Remote US | 39h | [Apply](https://job-boards.greenhouse.io/doitintl/jobs/8196425003) |
+| [Enova International](https://findyourrolefirst.click/companies/enova-international) | Business Operations Associate - CashNet USA | Chicago, IL | 41h | [Apply](https://job-boards.greenhouse.io/enova/jobs/8256308) |
+| Stensul | Sales Development Representative | New York | 42h | [Apply](https://jobs.ashbyhq.com/stensul/c762466b-f539-4f33-ac5f-88b8fb825bf1/application) |
+| Real-Time Innovations | Sales Development Representative | Denver, Colorado | 42h | [Apply](https://job-boards.greenhouse.io/rti/jobs/8337922) |
+| Ello | Marketing Associate \(Contract\) | San Francisco, CA | 45h | [Apply](https://jobs.ashbyhq.com/ello/fb8af180-04a9-48dd-94ea-01627db57b19/application) |
 | [Boeing](https://findyourrolefirst.click/companies/boeing) | Entry-Level Supply Chain Specialist 🛂 | USA - Hazelwood, MO | 2d | [Apply](https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Hazelwood-MO/Entry-Level-Supply-Chain-Specialist_JR2026524512-1) |
 | [Americancentury](https://findyourrolefirst.click/companies/americancentury) | IT Business Operations Associate | Kansas City, Missouri | 2d | [Apply](https://americancentury.wd5.myworkdayjobs.com/americancenturyinvestments/job/Kansas-City-Missouri/IT-Business-Operations-Associate_R0005804) |
 | [Boeing](https://findyourrolefirst.click/companies/boeing) | Entry Level or Associate Supply Chain Specialist \(Supply Chain Management\) 🛂 | USA - Ridley Park, PA | 2d | [Apply](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Ridley-Park-PA/Entry-Level-or-Associate-Supply-Chain-Specialist--Supply-Chain-Management-_JR2026525389) |
@@ -122,12 +121,12 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| [Keyfactor, Inc.](https://findyourrolefirst.click/companies/keyfactor-inc) | Associate Software Engineer | United States \(Remote\) | 4h | [Apply](https://job-boards.greenhouse.io/keyfactorinc/jobs/6242660004) |
-| [ASM](https://findyourrolefirst.click/companies/asm) | Software Engineer - Early Career | US \> Arizona \> Phoenix | 11h | [Apply](https://www.asm.com/open-vacancies/?gh_jid=5019821101) |
-| [Moog](https://findyourrolefirst.click/companies/moog) | Associate Software Engineer | Buffalo, NY | 26h | [Apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Associate-Software-Engineer_R-26-21135) |
-| [General Motors](https://findyourrolefirst.click/companies/general-motors) | Entry Level Mainframe Systems Engineer 🛂 | Warren, Michigan, United States of America | 26h | [Apply](https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Warren-Michigan-United-States-of-America/Entry-Level-Mainframe-Systems-Engineer_JR-202623745) |
-| [RTX](https://findyourrolefirst.click/companies/rtx) | Software Engineer I | US-MA-TEWKSBURY-TB3 \~ 50 Apple Hill Dr \~ CONCORD BLDG, Tew | 26h | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I_01885871-1) |
-| [StubHub](https://findyourrolefirst.click/companies/stubhub) | Software Engineer I \(New Grad\) - Consumer Experience 🛂 | New York, New York, United States | 32h | [Apply](https://job-boards.eu.greenhouse.io/stubhubinc/jobs/5027626101) |
+| [Keyfactor, Inc.](https://findyourrolefirst.click/companies/keyfactor-inc) | Associate Software Engineer | United States \(Remote\) | 11h | [Apply](https://job-boards.greenhouse.io/keyfactorinc/jobs/6242660004) |
+| [ASM](https://findyourrolefirst.click/companies/asm) | Software Engineer - Early Career | US \> Arizona \> Phoenix | 18h | [Apply](https://www.asm.com/open-vacancies/?gh_jid=5019821101) |
+| [Moog](https://findyourrolefirst.click/companies/moog) | Associate Software Engineer | Buffalo, NY | 34h | [Apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Associate-Software-Engineer_R-26-21135) |
+| [General Motors](https://findyourrolefirst.click/companies/general-motors) | Entry Level Mainframe Systems Engineer 🛂 | Warren, Michigan, United States of America | 34h | [Apply](https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Warren-Michigan-United-States-of-America/Entry-Level-Mainframe-Systems-Engineer_JR-202623745) |
+| [RTX](https://findyourrolefirst.click/companies/rtx) | Software Engineer I | US-MA-TEWKSBURY-TB3 \~ 50 Apple Hill Dr \~ CONCORD BLDG, Tew | 34h | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I_01885871-1) |
+| [StubHub](https://findyourrolefirst.click/companies/stubhub) | Software Engineer I \(New Grad\) - Consumer Experience 🛂 | New York, New York, United States | 40h | [Apply](https://job-boards.eu.greenhouse.io/stubhubinc/jobs/5027626101) |
 | [RTX](https://findyourrolefirst.click/companies/rtx) | Embedded Software Engineer I \(Hybrid - Aguadilla, PR\) | US-PR-AGUADILLA-110 \~ Rd 110 N Km 28.8 \~ RD110 | 2d | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Software-Engineer-I--Hybrid---Aguadilla--PR-_01887705) |
 | [Wgu](https://findyourrolefirst.click/companies/wgu) | Associate Software Engineer | Salt Lake City, UT | 2d | [Apply](https://wgu.wd5.myworkdayjobs.com/external/job/Salt-Lake-City-UT/Associate-Software-Engineer_JR-026548) |
 | [Amazon](https://findyourrolefirst.click/companies/amazon) | Software Development Engineer \(Embedded systems\), Amazon Leo, Early Career - 2027 \(US\) 🛂 | Redmond, Washington, USA | 2d | [Apply](https://account.amazon.jobs/jobs/10598021/apply) |
