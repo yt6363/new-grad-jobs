@@ -1,10 +1,10 @@
 # New grad and entry-level jobs (US)
 
-### 71 open roles · 29 posted in the last 48 hours
+### 73 open roles · 30 posted in the last 48 hours
 
 New grad and entry-level roles in **product, data, design, business and software**, posted in the last 7 days, read straight from more than 15,000 company career sites (Greenhouse, Lever, Ashby, Workday and the big tech career sites). **Updated every hour.**
 
-Last update: November 19, 2026, 03:31 UTC
+Last update: November 19, 2026, 13:12 UTC
 
 > [!TIP]
 > **Star this repo** to keep it handy. It rewrites itself every hour, newest roles on top.
@@ -19,7 +19,7 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 - [Data, analytics and AI](#data-analytics-and-ai) (6)
 - [Design](#design) (0)
 - [Business, marketing and operations](#business-marketing-and-operations) (54)
-- [Software engineering](#software-engineering) (9)
+- [Software engineering](#software-engineering) (11)
 
 ## Product management
 
@@ -32,9 +32,9 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| [Integra FEC](https://findyourrolefirst.click/companies/integra-fec) | Junior Data Scientist \(Summer 2027\) | Austin, Texas | 5h | [Apply](https://job-boards.greenhouse.io/integra/jobs/5487065008) |
-| [ATOMS Careers page](https://findyourrolefirst.click/companies/atoms-careers-page) | AI Researcher - New Grad \(BS/MS\) | San Francisco, CA | 31h | [Apply](https://job-boards.greenhouse.io/cssmerge/jobs/8948844002) |
-| [ATOMS Careers page](https://findyourrolefirst.click/companies/atoms-careers-page) | AI Researcher - New Grad \(PhD\) | San Francisco, CA | 31h | [Apply](https://job-boards.greenhouse.io/cssmerge/jobs/8948819002) |
+| [Integra FEC](https://findyourrolefirst.click/companies/integra-fec) | Junior Data Scientist \(Summer 2027\) | Austin, Texas | 15h | [Apply](https://job-boards.greenhouse.io/integra/jobs/5487065008) |
+| [ATOMS Careers page](https://findyourrolefirst.click/companies/atoms-careers-page) | AI Researcher - New Grad \(BS/MS\) | San Francisco, CA | 41h | [Apply](https://job-boards.greenhouse.io/cssmerge/jobs/8948844002) |
+| [ATOMS Careers page](https://findyourrolefirst.click/companies/atoms-careers-page) | AI Researcher - New Grad \(PhD\) | San Francisco, CA | 41h | [Apply](https://job-boards.greenhouse.io/cssmerge/jobs/8948819002) |
 | [Applied](https://findyourrolefirst.click/companies/applied) | Data Analyst I - Entry Level | 9360 - PCI Raleigh, NC | 2d | [Apply](https://applied.wd501.myworkdayjobs.com/applied/job/9360---PCI-Raleigh-NC/Data-Analyst-I---Entry-Level_JR105872) |
 | [Roblox](https://findyourrolefirst.click/companies/roblox) | \[2027\] Data Scientist - PhD Early Career - Safety 🛂 | San Mateo, CA, United States | 2d | [Apply](https://careers.roblox.com/jobs/8384186?gh_jid=8384186) |
 | [Anduril Industries](https://findyourrolefirst.click/companies/anduril-industries) | 2027 Early Career Test & Evaluation Operations Analyst | Costa Mesa, California, United States | 2d | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5296757007?gh_jid=5296757007) |
@@ -49,28 +49,28 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| [Instructure, Inc.](https://findyourrolefirst.click/companies/instructure-inc) | Associate Account Executive - Parchment - K12 | United States | 1h | [Apply](https://jobs.ashbyhq.com/instructure/2faab7f2-19c8-4e99-b424-825b1cca78c7/application) |
-| Vitally | Sales Development Representative | United States | 3h | [Apply](https://jobs.ashbyhq.com/vitally/f74c9f35-4d7a-4082-b0fc-3a679ef5ef2a/application) |
-| Mizzen\+Main | Growth Marketing Associate | Dallas, TX | 4h | [Apply](https://job-boards.greenhouse.io/mizzenandmain/jobs/4730747006) |
-| [RVO Health](https://findyourrolefirst.click/companies/rvo-health) | Social Media Marketing Associate | Remote- US | 6h | [Apply](https://job-boards.greenhouse.io/rvohealth/jobs/4753424005) |
-| [Bitwarden](https://findyourrolefirst.click/companies/bitwarden) | Sales Development Representative | Remote, U.S. | 6h | [Apply](https://bitwarden.com/careers/8201804003/?gh_jid=8201804003) |
-| [Hive](https://findyourrolefirst.click/companies/hive) | Growth Strategy & Operations Associate | San Francisco | 6h | [Apply](https://jobs.lever.co/hive/b000e904-0c59-4c81-b7ad-a6f2844a94d6/apply) |
-| Descope | Sales Development Representative, East Coast | East Coast, US | 7h | [Apply](https://job-boards.greenhouse.io/descope/jobs/4513424009) |
-| [Alarm.com](https://findyourrolefirst.click/companies/alarm-com) | Marketing Associate | Tysons, Virginia | 9h | [Apply](https://job-boards.greenhouse.io/alarmcom/jobs/8938442002) |
-| [Compass](https://findyourrolefirst.click/companies/compass) | Sales Development Representative | Tacoma, Washington, United States | 9h | [Apply](https://www.compass.com/careers?gh_jid=8399946) |
-| [Andersen Corporation/Renewal by Andersen](https://findyourrolefirst.click/companies/andersen-corporation-renewal-by-andersen) | Direct Marketing Associate - Fort Myers | Fort Myers, Florida | 10h | [Apply](https://jobs.lever.co/andersencorp/f45dc9bb-df05-415c-b557-b232c88f9e0d/apply) |
-| [Airwallex](https://findyourrolefirst.click/companies/airwallex) | Sales Development Representative, Mid Market | US - San Francisco | 11h | [Apply](https://jobs.ashbyhq.com/airwallex/4acbd6ee-d26e-4810-b2e2-851e7e1d87fe/application) |
-| [Cision](https://findyourrolefirst.click/companies/cision) | Associate Account Executive | Albuquerque, New Mexico, United States; Cleveland, Ohio, Uni | 12h | [Apply](https://job-boards.eu.greenhouse.io/cision/jobs/5025213101) |
-| [Starburst](https://findyourrolefirst.click/companies/starburst) | Sales Development Representative - Federal | Washington DC | 12h | [Apply](https://job-boards.greenhouse.io/starburst/jobs/5485697008) |
-| [Nivoda](https://findyourrolefirst.click/companies/nivoda) | Sales Development Representative | Utah, United States | 17h | [Apply](https://jobs.ashbyhq.com/Nivoda/f466faa0-d3e4-47b4-82b3-e9d2a14d4e97/application) |
-| Bjak | Business Operations Associate | United States | 21h | [Apply](https://jobs.ashbyhq.com/bjakcareer/591e0e27-2ade-46f1-896e-d199b6564040/application) |
-| Wisetack | Sales Development Representative | Remote, USA | 27h | [Apply](https://job-boards.greenhouse.io/wisetack/jobs/4754606005) |
-| [Saviynt](https://findyourrolefirst.click/companies/saviynt) | Sales Development Representative 🛂 | Atlanta, USA | 29h | [Apply](https://jobs.lever.co/saviynt/f55fb815-84c2-4db3-9795-7da9630a8172/apply) |
-| [Financial Times](https://findyourrolefirst.click/companies/financial-times) | Sales Development Representative | New York | 30h | [Apply](https://job-boards.eu.greenhouse.io/financialtimes33/jobs/5039513101) |
-| [Faire](https://findyourrolefirst.click/companies/faire) | Sales Development Representative \(SDR\) Brand/Retailer | San Francisco, CA | 31h | [Apply](https://boards.greenhouse.io/faire/jobs/8947932002?gh_jid=8947932002) |
-| [Vonage](https://findyourrolefirst.click/companies/vonage) | Sales Development Representative \(API/CPaaS\) - Mid Market | Atlanta, Georgia, United States | 34h | [Apply](https://job-boards.greenhouse.io/vonage/jobs/8937912002) |
-| [Clera](https://findyourrolefirst.click/companies/clera) | Founding Sales Development Representative | Salt Lake City | 34h | [Apply](https://jobs.ashbyhq.com/Clera/d4299b37-2e64-4980-ad16-d05a6235ba92/application) |
-| [Momentum](https://findyourrolefirst.click/companies/momentum) | 2027 Launch Graduate Program: Associate Talent Acquisition Coordinator | Dallas, Texas | 35h | [Apply](https://job-boards.greenhouse.io/momentumcompany3/jobs/8947897002) |
+| [Instructure, Inc.](https://findyourrolefirst.click/companies/instructure-inc) | Associate Account Executive - Parchment - K12 | United States | 11h | [Apply](https://jobs.ashbyhq.com/instructure/2faab7f2-19c8-4e99-b424-825b1cca78c7/application) |
+| Vitally | Sales Development Representative | United States | 12h | [Apply](https://jobs.ashbyhq.com/vitally/f74c9f35-4d7a-4082-b0fc-3a679ef5ef2a/application) |
+| Mizzen\+Main | Growth Marketing Associate | Dallas, TX | 13h | [Apply](https://job-boards.greenhouse.io/mizzenandmain/jobs/4730747006) |
+| [RVO Health](https://findyourrolefirst.click/companies/rvo-health) | Social Media Marketing Associate | Remote- US | 15h | [Apply](https://job-boards.greenhouse.io/rvohealth/jobs/4753424005) |
+| [Bitwarden](https://findyourrolefirst.click/companies/bitwarden) | Sales Development Representative | Remote, U.S. | 16h | [Apply](https://bitwarden.com/careers/8201804003/?gh_jid=8201804003) |
+| [Hive](https://findyourrolefirst.click/companies/hive) | Growth Strategy & Operations Associate | San Francisco | 16h | [Apply](https://jobs.lever.co/hive/b000e904-0c59-4c81-b7ad-a6f2844a94d6/apply) |
+| Descope | Sales Development Representative, East Coast | East Coast, US | 17h | [Apply](https://job-boards.greenhouse.io/descope/jobs/4513424009) |
+| [Alarm.com](https://findyourrolefirst.click/companies/alarm-com) | Marketing Associate | Tysons, Virginia | 19h | [Apply](https://job-boards.greenhouse.io/alarmcom/jobs/8938442002) |
+| [Compass](https://findyourrolefirst.click/companies/compass) | Sales Development Representative | Tacoma, Washington, United States | 19h | [Apply](https://www.compass.com/careers?gh_jid=8399946) |
+| [Andersen Corporation/Renewal by Andersen](https://findyourrolefirst.click/companies/andersen-corporation-renewal-by-andersen) | Direct Marketing Associate - Fort Myers | Fort Myers, Florida | 20h | [Apply](https://jobs.lever.co/andersencorp/f45dc9bb-df05-415c-b557-b232c88f9e0d/apply) |
+| [Airwallex](https://findyourrolefirst.click/companies/airwallex) | Sales Development Representative, Mid Market | US - San Francisco | 21h | [Apply](https://jobs.ashbyhq.com/airwallex/4acbd6ee-d26e-4810-b2e2-851e7e1d87fe/application) |
+| [Cision](https://findyourrolefirst.click/companies/cision) | Associate Account Executive | Albuquerque, New Mexico, United States; Cleveland, Ohio, Uni | 21h | [Apply](https://job-boards.eu.greenhouse.io/cision/jobs/5025213101) |
+| [Starburst](https://findyourrolefirst.click/companies/starburst) | Sales Development Representative - Federal | Washington DC | 22h | [Apply](https://job-boards.greenhouse.io/starburst/jobs/5485697008) |
+| [Nivoda](https://findyourrolefirst.click/companies/nivoda) | Sales Development Representative | Utah, United States | 26h | [Apply](https://jobs.ashbyhq.com/Nivoda/f466faa0-d3e4-47b4-82b3-e9d2a14d4e97/application) |
+| Bjak | Business Operations Associate | United States | 30h | [Apply](https://jobs.ashbyhq.com/bjakcareer/591e0e27-2ade-46f1-896e-d199b6564040/application) |
+| Wisetack | Sales Development Representative | Remote, USA | 37h | [Apply](https://job-boards.greenhouse.io/wisetack/jobs/4754606005) |
+| [Saviynt](https://findyourrolefirst.click/companies/saviynt) | Sales Development Representative 🛂 | Atlanta, USA | 38h | [Apply](https://jobs.lever.co/saviynt/f55fb815-84c2-4db3-9795-7da9630a8172/apply) |
+| [Financial Times](https://findyourrolefirst.click/companies/financial-times) | Sales Development Representative | New York | 40h | [Apply](https://job-boards.eu.greenhouse.io/financialtimes33/jobs/5039513101) |
+| [Faire](https://findyourrolefirst.click/companies/faire) | Sales Development Representative \(SDR\) Brand/Retailer | San Francisco, CA | 41h | [Apply](https://boards.greenhouse.io/faire/jobs/8947932002?gh_jid=8947932002) |
+| [Vonage](https://findyourrolefirst.click/companies/vonage) | Sales Development Representative \(API/CPaaS\) - Mid Market | Atlanta, Georgia, United States | 43h | [Apply](https://job-boards.greenhouse.io/vonage/jobs/8937912002) |
+| [Clera](https://findyourrolefirst.click/companies/clera) | Founding Sales Development Representative | Salt Lake City | 43h | [Apply](https://jobs.ashbyhq.com/Clera/d4299b37-2e64-4980-ad16-d05a6235ba92/application) |
+| [Momentum](https://findyourrolefirst.click/companies/momentum) | 2027 Launch Graduate Program: Associate Talent Acquisition Coordinator | Dallas, Texas | 45h | [Apply](https://job-boards.greenhouse.io/momentumcompany3/jobs/8947897002) |
 | [Andersen](https://findyourrolefirst.click/companies/andersen) | Direct Marketing Associate - SW Florida | Fort Myers, FL | 2d | [Apply](https://andersen.wd12.myworkdayjobs.com/andersen_external_career_site/job/Fort-Myers-FL/Direct-Marketing-Associate---SW-Florida_R-9269) |
 | [Bitsight](https://findyourrolefirst.click/companies/bitsight) | Sales Development Representative | Boston, MA | 2d | [Apply](https://bitsight.wd1.myworkdayjobs.com/bitsight/job/Boston-MA/Sales-Development-Representative_JR101514-1) |
 | [Mercor](https://findyourrolefirst.click/companies/mercor) | Early Career & University Recruiter | New York City | 2d | [Apply](https://jobs.ashbyhq.com/mercor/a9e61c01-b8d3-454f-b0fc-1f5fa0f6ddce/application) |
@@ -108,10 +108,12 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| [Kira](https://findyourrolefirst.click/companies/kira) | Software Engineer \(Entry Level\) | New York or San Francisco | 5h | [Apply](https://jobs.ashbyhq.com/kira/d92f1ac9-1abb-448c-b039-22643d9bb8a7/application) |
-| [Twitch](https://findyourrolefirst.click/companies/twitch) | Software Engineer I, Commerce | Seattle, WA | 27h | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8949388002) |
-| [Amazon](https://findyourrolefirst.click/companies/amazon) | Software Engineer I 🛂 | San Francisco, California, USA | 27h | [Apply](https://account.amazon.jobs/jobs/10608848/apply) |
-| [Relativity Space](https://findyourrolefirst.click/companies/relativity-space) | Software Engineer I \(Factory Platform\) | Long Beach, California, United States | 28h | [Apply](https://boards.greenhouse.io/relativity/jobs/8949325002?gh_jid=8949325002) |
+| [Amazon](https://findyourrolefirst.click/companies/amazon) | Software Engineer I, Commerce 🛂 | Seattle, Washington, USA | 13h | [Apply](https://account.amazon.jobs/jobs/10607758/apply) |
+| [Kira](https://findyourrolefirst.click/companies/kira) | Software Engineer \(Entry Level\) | New York or San Francisco | 15h | [Apply](https://jobs.ashbyhq.com/kira/d92f1ac9-1abb-448c-b039-22643d9bb8a7/application) |
+| [Twitch](https://findyourrolefirst.click/companies/twitch) | Software Engineer I, Commerce | Seattle, WA | 36h | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8949388002) |
+| [Amazon](https://findyourrolefirst.click/companies/amazon) | Software Engineer I 🛂 | San Francisco, California, USA | 37h | [Apply](https://account.amazon.jobs/jobs/10608848/apply) |
+| [Relativity Space](https://findyourrolefirst.click/companies/relativity-space) | Software Engineer I \(Factory Platform\) | Long Beach, California, United States | 37h | [Apply](https://boards.greenhouse.io/relativity/jobs/8949325002?gh_jid=8949325002) |
+| [Tandemdiabetes](https://findyourrolefirst.click/companies/tandemdiabetes) | Embedded Software Engineer I | Remote   San Diego CA \(\+1 more\) | 2d | [Apply](https://tandemdiabetes.wd12.myworkdayjobs.com/tandemdiabetes/job/Remote---San-Diego-CA/Embedded-Software-Engineer-I_JR101708-1) |
 | [Starfish](https://findyourrolefirst.click/companies/starfish) | Entry-Level Modeling & Simulation Software Engineer | Huntsville, AL | 2d | [Apply](https://starfish.wd501.myworkdayjobs.com/careers/job/Huntsville-AL/Entry-Level-Modeling---Simulation-Software-Engineer_R2206-1) |
 | [Twitch](https://findyourrolefirst.click/companies/twitch) | Software Engineer I, Payments | San Francisco, CA | 5d | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8943553002) |
 | CMTelematics | Software Engineer I, Cloud | Cambridge, MA | 5d | [Apply](https://job-boards.greenhouse.io/cmt/jobs/8385978) |
