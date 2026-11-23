@@ -1,10 +1,10 @@
 # New grad and entry-level jobs (US)
 
-### 74 open roles · 2 posted in the last 48 hours
+### 75 open roles · 3 posted in the last 48 hours
 
 New grad and entry-level roles in **product, data, design, business and software**, posted in the last 7 days, read straight from more than 15,000 company career sites (Greenhouse, Lever, Ashby, Workday and the big tech career sites). **Updated every hour.**
 
-Last update: November 23, 2026, 02:47 UTC
+Last update: November 23, 2026, 12:49 UTC
 
 > [!TIP]
 > **Star this repo** to keep it handy. It rewrites itself every hour, newest roles on top.
@@ -16,9 +16,9 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 ## Jump to
 
 - [Product management](#product-management) (4)
-- [Data, analytics and AI](#data-analytics-and-ai) (7)
+- [Data, analytics and AI](#data-analytics-and-ai) (6)
 - [Design](#design) (0)
-- [Business, marketing and operations](#business-marketing-and-operations) (51)
+- [Business, marketing and operations](#business-marketing-and-operations) (53)
 - [Software engineering](#software-engineering) (12)
 
 ## Product management
@@ -35,7 +35,6 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
 | [IXL Learning](https://findyourrolefirst.click/companies/ixl-learning) | Associate Customer Support Analyst, New Grad 🛂 | San Mateo, CA | 3d | [Apply](https://www.ixl.com/company/jobs?gh_jid=8953765002) |
-| [Schumacher](https://findyourrolefirst.click/companies/schumacher) | Business Data Analyst I | SCP - Dallas Office | 4d | [Apply](https://schumacher.wd1.myworkdayjobs.com/corporate-careers/job/SCP---Dallas-Office/Business-Data-Analyst-I_JR6919-1) |
 | [Integra FEC](https://findyourrolefirst.click/companies/integra-fec) | Junior Data Scientist | Austin, Texas | 4d | [Apply](https://job-boards.greenhouse.io/integra/jobs/5487065008) |
 | [ATOMS Careers page](https://findyourrolefirst.click/companies/atoms-careers-page) | AI Researcher - New Grad \(BS/MS\) | San Francisco, CA | 5d | [Apply](https://job-boards.greenhouse.io/cssmerge/jobs/8948844002) |
 | [ATOMS Careers page](https://findyourrolefirst.click/companies/atoms-careers-page) | AI Researcher - New Grad \(PhD\) | San Francisco, CA | 5d | [Apply](https://job-boards.greenhouse.io/cssmerge/jobs/8948819002) |
@@ -52,8 +51,9 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| [Numeric](https://findyourrolefirst.click/companies/numeric) | Field Marketing Associate | San Francisco | 8h | [Apply](https://jobs.ashbyhq.com/numeric/d58c1011-f7c0-4a03-b8ef-b382f63aec18/application) |
-| [Clera](https://findyourrolefirst.click/companies/clera) | Sales Development Representative | San Francisco | 33h | [Apply](https://jobs.ashbyhq.com/Clera/0f42f168-438f-4a90-864b-bbc3d4d41783/application) |
+| [Bostondynamics](https://findyourrolefirst.click/companies/bostondynamics) | Sales Development Representative | Waltham, MA | 1h | [Apply](https://bostondynamics.wd1.myworkdayjobs.com/boston_dynamics/job/Waltham-MA/Sales-Development-Representative_R3396) |
+| [Numeric](https://findyourrolefirst.click/companies/numeric) | Field Marketing Associate | San Francisco | 18h | [Apply](https://jobs.ashbyhq.com/numeric/d58c1011-f7c0-4a03-b8ef-b382f63aec18/application) |
+| [Clera](https://findyourrolefirst.click/companies/clera) | Sales Development Representative | San Francisco | 43h | [Apply](https://jobs.ashbyhq.com/Clera/0f42f168-438f-4a90-864b-bbc3d4d41783/application) |
 | [Salesforce](https://findyourrolefirst.click/companies/salesforce) | GTM Strategy & Operations Associate — Salesforce Security Practice 🛂 | Washington   Seattle \(\+1 more\) | 2d | [Apply](https://salesforce.wd12.myworkdayjobs.com/futureforce_newgradroles/job/Washington---Seattle/GTM-Strategy---Operations-Associate---Salesforce-Security-Practice_JR369213-2) |
 | Fundwell | Sales Development Representative | New York, NY | 2d | [Apply](https://jobs.ashbyhq.com/fundwell/9c0f1fbe-ecc3-45d6-b7fb-adf1cccb5329/application) |
 | Raptor Technologies | Sales Development Representative | Remote - US | 2d | [Apply](https://job-boards.greenhouse.io/raptortechnologies/jobs/5491419008) |
@@ -83,8 +83,8 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 | [Airwallex](https://findyourrolefirst.click/companies/airwallex) | Sales Development Representative, Mid Market | US - San Francisco | 4d | [Apply](https://jobs.ashbyhq.com/airwallex/4acbd6ee-d26e-4810-b2e2-851e7e1d87fe/application) |
 | [Cision](https://findyourrolefirst.click/companies/cision) | Associate Account Executive | Albuquerque, New Mexico, United States; Cleveland, Ohio, Uni | 4d | [Apply](https://job-boards.eu.greenhouse.io/cision/jobs/5025213101) |
 | [Starburst](https://findyourrolefirst.click/companies/starburst) | Sales Development Representative - Federal | Washington DC | 4d | [Apply](https://job-boards.greenhouse.io/starburst/jobs/5485697008) |
-| [Nivoda](https://findyourrolefirst.click/companies/nivoda) | Sales Development Representative | Utah, United States | 4d | [Apply](https://jobs.ashbyhq.com/Nivoda/f466faa0-d3e4-47b4-82b3-e9d2a14d4e97/application) |
-| Bjak | Business Operations Associate | United States | 4d | [Apply](https://jobs.ashbyhq.com/bjakcareer/591e0e27-2ade-46f1-896e-d199b6564040/application) |
+| [Nivoda](https://findyourrolefirst.click/companies/nivoda) | Sales Development Representative | Utah, United States | 5d | [Apply](https://jobs.ashbyhq.com/Nivoda/f466faa0-d3e4-47b4-82b3-e9d2a14d4e97/application) |
+| Bjak | Business Operations Associate | United States | 5d | [Apply](https://jobs.ashbyhq.com/bjakcareer/591e0e27-2ade-46f1-896e-d199b6564040/application) |
 | [Evercommerce](https://findyourrolefirst.click/companies/evercommerce) | EverHealth - Sales Development Representative \(Woburn, MA\) | Remote Massachusetts \(\+1 more\) | 5d | [Apply](https://evercommerce.wd1.myworkdayjobs.com/evercommerce_careers/job/Remote-Massachusetts/EverHealth---Sales-Development-Representative--Boston--MA-_R-106670) |
 | Wisetack | Sales Development Representative | Remote, USA | 5d | [Apply](https://job-boards.greenhouse.io/wisetack/jobs/4754606005) |
 | [Saviynt](https://findyourrolefirst.click/companies/saviynt) | Sales Development Representative 🛂 | Atlanta, USA | 5d | [Apply](https://jobs.lever.co/saviynt/f55fb815-84c2-4db3-9795-7da9630a8172/apply) |
@@ -94,6 +94,7 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 | [Clera](https://findyourrolefirst.click/companies/clera) | Founding Sales Development Representative | Salt Lake City | 5d | [Apply](https://jobs.ashbyhq.com/Clera/d4299b37-2e64-4980-ad16-d05a6235ba92/application) |
 | [Megaport](https://findyourrolefirst.click/companies/megaport) | Sales Development Representative | United States of America | 5d | [Apply](https://jobs.lever.co/megaport/fe3dd7f6-b4ac-4ec2-8606-fa89e8e6c1f7/apply) |
 | [Momentum](https://findyourrolefirst.click/companies/momentum) | 2027 Launch Graduate Program: Associate Talent Acquisition Coordinator | Dallas, Texas | 5d | [Apply](https://job-boards.greenhouse.io/momentumcompany3/jobs/8947897002) |
+| [Bitsight](https://findyourrolefirst.click/companies/bitsight) | Sales Development Representative | Boston, MA | 6d | [Apply](https://bitsight.wd1.myworkdayjobs.com/bitsight/job/Boston-MA/Sales-Development-Representative_JR101514-1) |
 | [Mercor](https://findyourrolefirst.click/companies/mercor) | Early Career & University Recruiter | New York City | 6d | [Apply](https://jobs.ashbyhq.com/mercor/a9e61c01-b8d3-454f-b0fc-1f5fa0f6ddce/application) |
 | [Bozzuto](https://findyourrolefirst.click/companies/bozzuto) | Sales & Marketing Associate | Gambrills, MD, 21054 | 6d | [Apply](https://www.bozzuto.com/careers/job-search/5481985008/?gh_jid=5481985008) |
 | [Emburse](https://findyourrolefirst.click/companies/emburse) | Associate Account Executive | Addison, TX | 6d | [Apply](https://jobs.lever.co/emburse/835b148c-2757-4f7b-8e23-c29b2d2e06bc/apply) |
