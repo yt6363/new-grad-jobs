@@ -1,10 +1,10 @@
 # New grad and entry-level jobs (US)
 
-### 45 open roles · 1 posted in the last 48 hours
+### 45 open roles · 0 posted in the last 48 hours
 
 New grad and entry-level roles in **product, data, design, business and software**, posted in the last 7 days, read straight from more than 15,000 company career sites (Greenhouse, Lever, Ashby, Workday and the big tech career sites). **Updated every hour.**
 
-Last update: November 28, 2026, 02:43 UTC
+Last update: November 28, 2026, 11:50 UTC
 
 > [!TIP]
 > **Star this repo** to keep it handy. It rewrites itself every hour, newest roles on top.
@@ -44,7 +44,7 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| [Lightfield](https://findyourrolefirst.click/companies/lightfield) | Sales Development Representative | HQ: San Francisco | 44h | [Apply](https://jobs.ashbyhq.com/Lightfield/fbb2e984-661d-456a-a423-2208669bdb16/application) |
+| [Lightfield](https://findyourrolefirst.click/companies/lightfield) | Sales Development Representative | HQ: San Francisco | 2d | [Apply](https://jobs.ashbyhq.com/Lightfield/fbb2e984-661d-456a-a423-2208669bdb16/application) |
 | [Schrödinger](https://findyourrolefirst.click/companies/schr-dinger) | Sales Development Representative | Portland; San Diego | 2d | [Apply](https://job-boards.greenhouse.io/schrdinger/jobs/8215528003) |
 | [ID.me](https://findyourrolefirst.click/companies/id-me) | Sales Development Representative - Healthcare | McLean, Virginia | 2d | [Apply](https://job-boards.greenhouse.io/idme/jobs/8209635003) |
 | Freshpaint | Sales Development Representative | Remote - US | 2d | [Apply](https://jobs.ashbyhq.com/freshpaint/c4ab077b-3d24-499c-806b-69049abf888d/application) |
@@ -75,8 +75,8 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 | [Hark](https://findyourrolefirst.click/companies/hark) | Sales Development Representative | San Jose | 4d | [Apply](https://job-boards.greenhouse.io/hark/jobs/4518995009) |
 | [Traba](https://findyourrolefirst.click/companies/traba) | Sales Development Representative - Summer 2027 Graduates | New York City, NY | 4d | [Apply](https://jobs.ashbyhq.com/traba/6a1a7df9-791b-4f62-8d85-ddc669647ea6/application) |
 | [Tom James Company](https://findyourrolefirst.click/companies/tom-james-company) | Sales Development Representative - Denver | Denver, CO | 4d | [Apply](https://jobs.lever.co/tomjames/0e7ea009-9710-43d6-bff5-3d8ac9247c91/apply) |
-| [Bostondynamics](https://findyourrolefirst.click/companies/bostondynamics) | Sales Development Representative | Waltham, MA | 4d | [Apply](https://bostondynamics.wd1.myworkdayjobs.com/boston_dynamics/job/Waltham-MA/Sales-Development-Representative_R3396) |
-| [Google](https://findyourrolefirst.click/companies/google) | Associate Product Marketing Manager \(APMM\), 2027 Start 🛂 | San Francisco, CA, USA \(\+7 more\) | 4d | [Apply](https://www.google.com/about/careers/applications/jobs/results/111418132802740934) |
+| [Bostondynamics](https://findyourrolefirst.click/companies/bostondynamics) | Sales Development Representative | Waltham, MA | 5d | [Apply](https://bostondynamics.wd1.myworkdayjobs.com/boston_dynamics/job/Waltham-MA/Sales-Development-Representative_R3396) |
+| [Google](https://findyourrolefirst.click/companies/google) | Associate Product Marketing Manager \(APMM\), 2027 Start 🛂 | San Francisco, CA, USA \(\+7 more\) | 5d | [Apply](https://www.google.com/about/careers/applications/jobs/results/111418132802740934) |
 | [Numeric](https://findyourrolefirst.click/companies/numeric) | Field Marketing Associate | San Francisco | 5d | [Apply](https://jobs.ashbyhq.com/numeric/d58c1011-f7c0-4a03-b8ef-b382f63aec18/application) |
 | [Clera](https://findyourrolefirst.click/companies/clera) | Sales Development Representative | San Francisco | 6d | [Apply](https://jobs.ashbyhq.com/Clera/0f42f168-438f-4a90-864b-bbc3d4d41783/application) |
 
@@ -89,7 +89,7 @@ Want these the hour they're posted, for your role and city? [Find your role firs
 | [Veeva](https://findyourrolefirst.click/companies/veeva) | Associate Software Engineer - 2027 Start Dates | North Carolina - Raleigh | 3d | [Apply](https://jobs.lever.co/veeva/7272b636-1a5e-4e4b-a0af-763d2951429f/apply) |
 | [Freedom Technology Solutions Group](https://findyourrolefirst.click/companies/freedom-technology-solutions-group) | Junior Software Engineer 817 | Annapolis Junction, MD | 3d | [Apply](https://job-boards.greenhouse.io/freedomconsulting/jobs/5308625007) |
 | Wurl | Software Engineer I | Remote - United States | 3d | [Apply](https://job-boards.greenhouse.io/wurljobs/jobs/4731759006) |
-| [Datalab USA](https://findyourrolefirst.click/companies/datalab-usa) | Production Programmer - Entry Level SQL Developer | Germantown, MD | 3d | [Apply](https://jobs.lever.co/datalabusa/df8bf76b-2626-4bb2-b4f2-dbefb165228a/apply) |
+| [Datalab USA](https://findyourrolefirst.click/companies/datalab-usa) | Production Programmer - Entry Level SQL Developer | Germantown, MD | 4d | [Apply](https://jobs.lever.co/datalabusa/df8bf76b-2626-4bb2-b4f2-dbefb165228a/apply) |
 | [Starfish](https://findyourrolefirst.click/companies/starfish) | Entry- Level Software Engineer | Huntsville, AL | 4d | [Apply](https://starfish.wd501.myworkdayjobs.com/careers/job/Huntsville-AL/Entry--Level-Software-Engineer_R2227) |
 
 ---
